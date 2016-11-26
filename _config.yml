@@ -1,136 +1,92 @@
-# This is the default format. 
-# For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title 
-
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
-
-# Themes are encouraged to use these universal variables 
-# so be sure to set them if your theme uses them.
+# Welcome to Jekyll!
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# The production_url is only used when full-domain names are needed
-# such as sitemap.txt 
-# Most places will/should use BASE_PATH to make the urls
-#
-# If you have set a CNAME (pages.github.com) set your custom domain here.
-# Else if you are pushing to username.github.io, replace with your username.
-# Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
-production_url : http://username.github.io
+# Site settings
+title: Alasdair Morrison - Glasgow Software Developer # ex. I m Chuan
+name: Alasdair Morrison # ex. DONGChuan
+email: amorri40@gmail.com
+location: Glasgow, Scotland # ex. Nice, France
+company: JP Morgan
+company_url: www.alasdairmorrison.com
+github_url: http://github.com/amorri40 # ex. https://github.com/DONGChuan
+description: Alasdair Morrison's Blog
+favicon: favicon.png # Image must be in assets/images
+repository: amorri40/amorri40.github.io # ex. DONGChuan/DONGChuan.github.io
 
-gems: ["jekyll-sitemap"]
+# The base hostname & protocol for your site
+# For local test, please use http://localhost:4000
+# For production, use your github page url. ex. http://dongchuan.github.io
+url: http://localhost:4000
 
-# All Jekyll-Bootstrap specific configurations are namespaced into this hash
-#
-JB :
-  version : 0.3.0
+## Gem
+gems:
+  - jekyll-paginate
+  - jekyll-geo-pattern
+  - rouge
+  - kramdown
+  - jekyll-github-metadata
 
-  # All links will be namespaced by BASE_PATH if defined.
-  # Links in your website should always be prefixed with {{BASE_PATH}}
-  # however this value will be dynamically changed depending on your deployment situation.
-  #
-  # CNAME (http://yourcustomdomain.com)
-  #   DO NOT SET BASE_PATH 
-  #   (urls will be prefixed with "/" and work relatively)
-  #
-  # GitHub Pages (http://username.github.io)
-  #   DO NOT SET BASE_PATH 
-  #   (urls will be prefixed with "/" and work relatively)
-  #
-  # GitHub Project Pages (http://username.github.io/project-name)
-  #
-  #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
-  #
-  # CAUTION:
-  #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
-  #   - Only the following values are falsy: ["", null, false]
-  #   - When setting BASE_PATH it must be a valid url.
-  #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
 
-  # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
-  # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
-  #
-  # Override this by defining an absolute path to assets here.
-  # ex: 
-  #   http://s3.amazonaws.com/yoursite/themes/watermelon
-  #   /assets
-  #
-  ASSET_PATH : false
+source:      .
+destination: ./_site
 
-  # These paths are to the main pages Jekyll-Bootstrap ships with.
-  # Some JB helpers refer to these paths; change them here if needed.
-  #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+quiet:    false
+defaults: []
 
-  # Settings for comments helper
-  # Set 'provider' to the comment provider you want to use.
-  # Set 'provider' to false to turn commenting off globally.
-  #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
-    duoshuo :
-      short_name : jekyllbootstrap
-   
-  # Settings for analytics helper
-  # Set 'provider' to the analytics provider you want to use.
-  # Set 'provider' to false to turn analytics off globally.
-  #        
-  analytics :
-    provider : google
-    gauges :
-        site_id : 'SITE ID'
-    google : 
-        tracking_id : 'UA-123-12'
-    getclicky :
-      site_id : 
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
-    piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
-        idsite : '1'                   # the id of the site on Piwik
+kramdown:
+  input: GFM
+  enable_coderay: true
 
-  # Settings for sharing helper. 
-  # Sharing is for things like tweet, plusone, like, reddit buttons etc.
-  # Set 'provider' to the sharing provider you want to use.
-  # Set 'provider' to false to turn sharing off globally.
-  #
-  sharing :
-    provider : false
-    
-  # Settings for all other include helpers can be defined by creating 
-  # a hash with key named for the given helper. ex:
-  #
-  #   pages_list :
-  #     provider : "custom"   
-  #
-  # Setting any helper's provider to 'custom' will bypass the helper code
-  # and include your custom code. Your custom file must be defined at:
-  #   ./_includes/custom/[HELPER]
-  # where [HELPER] is the name of the helper you are overriding.
-  
+# Disque
+disque: my_disque_settings # ex. httpdongchuangithubio.disqus.com
+
+# Pagination
+paginate: 10
+paginate_path: 'page:num'
+
+# Navigation. If you do not like these modules, just remove them :D
+navs:
+  -
+    href: /
+    label: Home
+
+  -
+    href: /open-source
+    label: Open-Source
+
+  -
+    href: /blog
+    label: Blog
+
+  -
+    href: /bookmark
+    label: Bookmarks
+
+  -
+    href: /about
+    label: About
+
+# Sidebar to show popular repo
+side_bar_repo_limit: 5 # Number of repos to show
+
+# Google Analytics
+analytics :
+  provider : google
+  google :
+      tracking_id : 'tracking_id'  # ex. UA-72165600-X
+
+
+# For about.html. Fell free to create your own!
+skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
+skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
+skill_mobile_app_keywords: [Android, Sketch UI Desgin]
