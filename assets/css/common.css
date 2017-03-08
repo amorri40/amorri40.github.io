@@ -199,3 +199,7 @@ h2.post-list-title {
 .post-list-item ul {
     margin-left:25px;
 }
+
+.post-list-item img{
+    width:100%;
+}
