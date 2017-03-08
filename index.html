@@ -1,27 +1,14 @@
 ---
-layout: default
-menu: home
-css: ['index.css', 'sidebar-popular-repo.css']
+layout: page
+title: Alasdair Morrison - Glasgow Based Web UI & Mobile Software Developer
+tagline: Javascript, Python, C++ and More!
+subtitle:   <h3> <a role="button" class="btn btn-primary hvr-grow-shadow" href="http://alasdairmorrison.com/cv/Alasdair_Morrison_CV_web.pdf" target="_blanks">
+                 Download My CV
+            </a></h3>
+
+
+css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
 ---
-<section class="jumbotron geopattern" data-pattern-id="{{ page.title }}">
-    <div class="container">
-        <h1>{{ site.title }}</h1>
-        <div id="jumbotron-meta-info">
-            <span class="meta-info">
-                <span class="octicon octicon-location"></span>
-                {{ site.location }}
-            </span>
-            <span class="meta-info hvr-grow">
-                <span class="octicon octicon-organization"></span>
-                <a href="{{ site.company_url }}" target="_blank">{{ site.company }}</a>
-            </span>
-            <span class="meta-info hvr-grow">
-                <span class="octicon octicon-mark-github"></span>
-                <a href="{{ site.github_url }}" target="_blank">@{{ site.name }}</a>
-            </span>
-        </div>
-    </div>
-</section>
 <section class="content container">
 
     <div class="row">
@@ -36,7 +23,7 @@ css: ['index.css', 'sidebar-popular-repo.css']
                         <a class="hvr-underline-from-center" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                     </h2>
                     <p class="post-list-description">
-                        {{ post.excerpt | strip_html | strip }}
+                        {{post.content}}
                     </p>
                     <p class="post-list-meta">
                         <span class="octicon octicon-calendar"></span> {{ post.date | date: "%Y/%m/%d" }}
