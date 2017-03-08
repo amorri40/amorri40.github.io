@@ -5,8 +5,8 @@ tagline: Javascript, Python, C++ and More!
 subtitle:   <h3> <a role="button" class="btn btn-primary hvr-grow-shadow" href="http://alasdairmorrison.com/cv/Alasdair_Morrison_CV_web.pdf" target="_blanks">
                  Download My CV
             </a></h3>
-           
-                            
+
+
 css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
 ---
 <section class="content container">
@@ -23,8 +23,7 @@ css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon
                         <a class="hvr-underline-from-center" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                     </h2>
                     <p class="post-list-description">
-                        {{ post.excerpt }}
-                        <a href="{{ site.url }}{{ post.url }}">Read Full Post</a>
+                        {{post.content}}
                     </p>
                     <p class="post-list-meta">
                         <span class="octicon octicon-calendar"></span> {{ post.date | date: "%Y/%m/%d" }}
