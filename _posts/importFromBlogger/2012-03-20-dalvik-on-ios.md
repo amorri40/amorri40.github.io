@@ -2,8 +2,8 @@
 layout: post
 title: "Dalvik on iOS"
 description: ""
-category:
-tags: []
+category: iOS
+tags: [Android]
 ---
 {% include JB/setup %}
 
