@@ -2,7 +2,7 @@
 layout: post
 title: "Training Review: NodeJS Play by Play Tim Caswell"
 description: ""
-category:
+category: [TrainingReview,Nodejs,Javascript]
 tags: []
 ---
 {% include JB/setup %}

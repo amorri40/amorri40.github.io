@@ -2,7 +2,7 @@
 layout: post
 title: "Simple XML in Java"
 description: ""
-category:
+category: [Java]
 tags: []
 ---
 {% include JB/setup %}

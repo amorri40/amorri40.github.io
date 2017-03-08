@@ -2,7 +2,7 @@
 layout: post
 title: "Interpreters101"
 description: ""
-category:
+category: [ComputerScience, Java, Android]
 tags: []
 ---
 {% include JB/setup %}

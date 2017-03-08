@@ -2,7 +2,7 @@
 layout: post
 title: "Automatically Format Javascript and HTML files on Save with Grunt"
 description: ""
-category:
+category: [Javascript]
 tags: []
 ---
 {% include JB/setup %}

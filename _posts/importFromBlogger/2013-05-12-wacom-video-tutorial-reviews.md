@@ -2,7 +2,7 @@
 layout: post
 title: "Wacom Video Tutorial Reviews"
 description: ""
-category:
+category: [Wacom,TrainingReviews]
 tags: []
 ---
 {% include JB/setup %}

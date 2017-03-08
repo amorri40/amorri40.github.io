@@ -2,7 +2,7 @@
 layout: post
 title: "Clang Plugin Xcode headaches"
 description: ""
-category:
+category: [Clang,MacOSX,IPhone]
 tags: []
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "Compare folders (mac)"
 description: ""
-category:
+category: [MacOSX]
 tags: []
 ---
 {% include JB/setup %}

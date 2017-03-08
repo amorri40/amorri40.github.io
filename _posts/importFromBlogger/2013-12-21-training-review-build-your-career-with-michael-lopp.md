@@ -2,7 +2,7 @@
 layout: post
 title: "Training Review: Build Your Career with michael Lopp"
 description: ""
-category:
+category: [TrainingReview,Career]
 tags: []
 ---
 {% include JB/setup %}

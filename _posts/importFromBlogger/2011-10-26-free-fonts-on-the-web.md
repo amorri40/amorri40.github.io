@@ -2,7 +2,7 @@
 layout: post
 title: "Free fonts on the web"
 description: ""
-category:
+category: [Art]
 tags: []
 ---
 {% include JB/setup %}

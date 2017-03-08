@@ -2,7 +2,7 @@
 layout: post
 title: "Treasure GM example in Enigma"
 description: ""
-category: Enigma
+category: [Enigma, GameMaker]
 tags: [Enigma,GameMaker]
 ---
 {% include JB/setup %}

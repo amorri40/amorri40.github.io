@@ -2,7 +2,7 @@
 layout: post
 title: "Loop Wisely in Java"
 description: ""
-category:
+category: [Java, Android]
 tags: []
 ---
 {% include JB/setup %}

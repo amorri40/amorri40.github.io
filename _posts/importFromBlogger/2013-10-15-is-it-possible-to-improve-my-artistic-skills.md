@@ -2,7 +2,7 @@
 layout: post
 title: "Is it possible to improve my artistic skills?"
 description: ""
-category:
+category: [Art]
 tags: []
 ---
 {% include JB/setup %}

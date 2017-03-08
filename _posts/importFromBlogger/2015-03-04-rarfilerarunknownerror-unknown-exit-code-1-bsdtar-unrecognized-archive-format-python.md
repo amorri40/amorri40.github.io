@@ -2,7 +2,7 @@
 layout: post
 title: "rarfile.RarUnknownError: Unknown exit code [1]: bsdtar: Unrecognized archive format Python"
 description: ""
-category:
+category: [MacOSX,Linux]
 tags: []
 ---
 {% include JB/setup %}

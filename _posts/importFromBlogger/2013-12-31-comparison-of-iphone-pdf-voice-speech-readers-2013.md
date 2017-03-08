@@ -2,7 +2,7 @@
 layout: post
 title: "Comparison of iPhone PDF Voice (Speech) readers 2013"
 description: ""
-category:
+category: [iPhone]
 tags: []
 ---
 {% include JB/setup %}

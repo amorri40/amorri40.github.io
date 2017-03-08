@@ -2,7 +2,7 @@
 layout: post
 title: "NES C Hello World on MacOSX"
 description: ""
-category:
+category: [Retro,CProgramming]
 tags: []
 ---
 {% include JB/setup %}

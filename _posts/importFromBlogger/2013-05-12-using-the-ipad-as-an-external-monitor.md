@@ -2,7 +2,7 @@
 layout: post
 title: "Using the ipad as an external monitor"
 description: ""
-category:
+category: [iPad]
 tags: []
 ---
 {% include JB/setup %}

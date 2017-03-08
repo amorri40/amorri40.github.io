@@ -2,7 +2,7 @@
 layout: post
 title: "illustrator inspiration"
 description: ""
-category:
+category: [Art,illustrator]
 tags: []
 ---
 {% include JB/setup %}

@@ -3,7 +3,7 @@ layout: post
 title: "Speed up/slow down HTML5 video"
 description: ""
 category:
-tags: []
+tags: [HTML5]
 ---
 {% include JB/setup %}
 

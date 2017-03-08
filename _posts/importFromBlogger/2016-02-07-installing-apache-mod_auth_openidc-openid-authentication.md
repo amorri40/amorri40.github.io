@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Apache mod_auth_openidc OpenID Authentication"
 description: ""
-category:
+category: [Apache, Linux]
 tags: []
 ---
 {% include JB/setup %}
