@@ -10,8 +10,6 @@ tags:
 source-id: 1viefb5osM7PLCaKrHwffEIyMGxPJmnFeyN3P6hpSaxg
 published: true
 ---
-Fantasy Art Genius Guide Bookazine Comparison
-
 During a recent visit to WH Smith I came across a few interesting looking bookazines, one of which was titled "Fantasy Art 7th Edition". A quick flick through later I decided to buy the book and enjoyed reading the tutorials. 
 
 After a while of reading I decided to see if I could purchase the other 6 books, as if they are as high quality as this then they would be a welcome addition to my bookshelf.
@@ -19,8 +17,6 @@ After a while of reading I decided to see if I could purchase the other 6 books,
 However after a lot of searching the net I could only seem to come across volume 1,2,3 and 7, where had issues 4,5 and 6 gone? There seemed to be no trace of their existence.
 
 ### Volume 1
-
-![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_0.png)
 
 Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine Publishing. Where Fantasy Artist was a monthly magazine published by Imagine Publishing in the UK ([https://gb.zinio.com/www/browse/issue.jsp?skuId=416229481#/](https://gb.zinio.com/www/browse/issue.jsp?skuId=416229481#/) ). The magazine was formally known as Digital Artist and sister title to Photoshop Creative. ([https://blog.photoshopcreative.co.uk/general/create-your-best-ever-fantasy-art/](https://blog.photoshopcreative.co.uk/general/create-your-best-ever-fantasy-art/) ).
 
