@@ -5,6 +5,9 @@ subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; To mark us
 menu: Notes
 ---
 
+## Art
+- [Fantasy-art-magazine-comparison](/fantasy-art-magazine-comparison/) - A comparison of the different volumes in the "Fantasy Art" bookazine series
+
 ## Java
 - [Dom4j](https://dom4j.github.io/) - Flexible XML framework
 - [Gson](https://github.com/google/gson) - Google Library to support JSON
@@ -15,16 +18,6 @@ menu: Notes
 - [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images
 - [greenDAO](http://greendao-orm.com/) - greenDAO is a light and fast ORM solution that maps objects to SQLite databases
 - [EventBus](http://greenrobot.github.io/EventBus/) - Android optimized event bus that simplifies communication
-
-## PHP
-- [Idiorm](https://github.com/j4mie/idiorm/) - A lightweight nearly-zero-config object-relational mapper and fluent query builder for PHP5
-- [GitElephant](https://github.com/matteosister/GitElephant) - An abstraction layer to manage your git repositories with php
-- [Propel](https://github.com/propelorm/Propel) - ORM for PHP5
-- [SimpleDOM](https://code.google.com/archive/p/simpledom/) - Built upon SimpleXML and provids DOM methods using SimpleXML's syntax.
-
-### Symfony
-- [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generate a decent documentation for your APIs
-- [FOSRestBundle](http://symfony.com/doc/current/bundles/FOSRestBundle/index.html) - Creat a REST API with Symfony2
 
 ## Javascript
 - [fullPage.js](http://alvarotrigo.com/fullPage/) - To create fullscreen scrolling websites / single page websites
@@ -72,11 +65,6 @@ menu: Notes
 
 ## Color
 - [Minimalist-Color-Palettes](https://www.behance.net/gallery/32154055/Minimalist-Color-Palettes-2015) - Minimalist Color Palettes
-
-## Tool
-- [ProcessOn](https://www.processon.com/) - UML web app for team (Chinese)
-- [draw.io](https://www.draw.io/) - UML web app for team
-- [WinSCP](https://winscp.net/eng/download.php) - SFTP, SCP and FTP client for Windows
 
 ## Books
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Practical Tips
