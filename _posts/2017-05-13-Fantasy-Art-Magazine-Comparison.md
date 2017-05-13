@@ -26,107 +26,66 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 *  The rules of fantasy art ()
 
-### Portraits
-
-- Add 3D elements to paintings ([Bao Pham](http://www.baophamart.com))
-
-- Classic portrait lighting techniques ([Drazenka Kimpe](http://www.creativedust.com))
-
-- Creative photomanipulation ([Aslı Yeniay Kizilay](http://wiksa.deviantart.com))
-
-- Use filters creatively ([Francisco Perez](http://www.pac23.com))
-
-- Add neon colours to portraits ([Bao Pham](http://www.baophamart.com))
-
-- Fantasy lighting ([Kelley Harris](http://krhart.com))
-
-- Paint perfect skin in Painter & Photoshop ([Marta Dahlig](http://blackeri.deviantart.com))
-
-- Complete guide to underpainting ([Paul Cartwright](http://www.zero9studio.co.uk))
-
-### Character
-
+<table>
+  <tr>
+    <td>Portraits
+- Add 3D elements to paintings (Bao Pham)
+- Classic portrait lighting techniques (Drazenka Kimpe)
+- Creative photomanipulation (Aslı Yeniay Kizilay)
+- Use filters creatively (Francisco Perez)
+- Add neon colours to portraits (Bao Pham)
+- Fantasy lighting (Kelley Harris)
+- Paint perfect skin in Painter & Photoshop (Marta Dahlig)
+- Complete guide to underpainting (Paul Cartwright)</td>
+    <td>Character
 - Mythological character art
-
 - Create classic anime characters
-
 - How to paint a steampunk fantasy
-
 - Paint manga
-
 - Metallic paint in ArtRage
+- Fantasy character</td>
+  </tr>
+  <tr>
+    <td>Concept
+- Secrets of good concept art (Kim Herbst)
+- Design decorative backgrounds (Natsuki Otani)
+- Fantasy art on the iPad (Kari Christensen)
+- Antique effects (Abigail Daker)
+- Pro matte painting (Jeffery M. De
+Guznan) (Advanced Photoshop issue 83)
+- Draw a fantasy fairy-tale character/scene (Sandra Dieckmann)
+- Use PaintTool SAI (Anneliese Mak)
+- The golden rules of comic art (Kathy Ferrell)
+- Design a movie poster (Simeon Elson)
+- Manga illustration on the iPad (Patipat Asavasena)</td>
+    <td>Landscapes
+- Paint captivating backgrounds (Amber Hill)
+- Construct a cityscape (Yap Kun Rong)
+- Paint with sponge brushes (Nick Harris)
+- Combine fantasy and realism (Amber Hill)
+- Lighting with layer masks (Joe Cummings)
+- Compose a spacescape (Tobias Roetsch)
+- Manga street scene (Patipat Asavasena)
+- Create fantasy worlds (Jennifer Cirpici)
+- Paint sci-fi settings (Alexander 'miNze' Thümler)
+- Paint moonlight into scenes (Amber Hill)
+- Design destructive cityscapes (Vitaly S Alexius)
+- Paint fantasy scenes (Lili Ibrahim)</td>
+  </tr>
+  <tr>
+    <td>Creatures
+- Figurative fractals & Photoshop (Gemma Hart)
+- Creating a hybrid portrait (Alyssia Indermuehle)
+- Illustrate in monochrome (Amber Hill)
+- Scale in sci-fi art (Rinehart Appiah)
+- Master Photoshop brushes (David Munoz Velazquez) (Advanced Photoshop Magazine issue 88)
+- Paint fur effects (Amber Hill) (Digital Artist Magazine Issue ???)
+- Magical night painting (Anastasia Korochanskaya) (Digital Artist Magazine issue 33)</td>
+    <td>Free with this issue...
+- Disc packed with tutorial files and resources.</td>
+  </tr>
+</table>
 
-- Fantasy character
-
-### Concept
-
-- Secrets of good concept art ([Kim Herbst](http://www.kimherbst.com))
-
-- Design decorative backgrounds ([Natsuki Otani](http://cargocollective.com/natsukiotani/))
-
-- Fantasy art on the iPad ([Kari Christensen](http://www.karichristensen.com))
-
-- Antique effects ([Abigail Daker](http://www.abigaildaker.com))
-
-- Pro matte painting ([Jeffery M. De](http://theartofjeffmd.com)
-
-[Guznan](http://theartofjeffmd.com)) (Advanced Photoshop issue 83)
-
-- Draw a fantasy fairy-tale character/scene ([Sandra Dieckmann](http://www.sandradieckmann.com))
-
-- Use PaintTool SAI ([Anneliese Mak](http://twelvecandles.co.nr))
-
-- The golden rules of comic art ([Kathy Ferrell](http://cuposwank.carbonmade.com))
-
-- Design a movie poster ([Simeon Elson](http://www.simeonelson.co.uk))
-
-- Manga illustration on the iPad ([Patipat Asavasena](http://www.asuka111.net))
-
-### Landscapes
-
-- Paint captivating backgrounds ([Amber Hill](http://vantid.deviantart.com))
-
-- Construct a cityscape ([Yap Kun Rong](http://www.yapkunrong.net))
-
-- Paint with sponge brushes ([Nick Harris](http://nickillus.com))
-
-- Combine fantasy and realism ([Amber Hill](http://vantid.deviantart.com))
-
-- Lighting with layer masks ([Joe Cummings](http://cummingsillustration.com))
-
-- Compose a spacescape ([Tobias Roetsch](http://gtgraphics.de/en/showcase/print/advanced-photoshop-issue-114))
-
-- Manga street scene ([Patipat Asavasena](http://www.asuka111.net))
-
-- Create fantasy worlds ([Jennifer Cirpici](http://www.breakingcanvas.com))
-
-- Paint sci-fi settings ([Alexander 'miNze' Thümler](http://www.minzketchbook.com))
-
-- Paint moonlight into scenes ([Amber Hill](http://vantid.deviantart.com))
-
-- Design destructive cityscapes ([Vitaly S Alexius](http://vs.darkfolio.com))
-
-- Paint fantasy scenes ([Lili Ibrahim](http://www.liliibrahim.com))
-
-### Creatures
-
-- Figurative fractals & Photoshop ([Gemma Hart](http://rockgem.deviantart.com))
-
-- Creating a hybrid portrait ([Alyssia Indermuehle](http://www.3dcelebrity.com))
-
-- Illustrate in monochrome ([Amber Hill](http://vantid.deviantart.com))
-
-- Scale in sci-fi art ([Rinehart Appiah](http://www.r-appiah.com))
-
-- Master Photoshop brushes ([David Munoz Velazquez](http://www.munozvelazquez.com)) (Advanced Photoshop Magazine issue 88)
-
-- Paint fur effects ([Amber Hill](http://vantid.deviantart.com)) (Digital Artist Magazine Issue ???)
-
-- Magical night painting ([Anastasia Korochanskaya](http://balaa.deviantart.com)) (Digital Artist Magazine issue 33)
-
-**Free with this issue...**
-
-- Disc packed with tutorial files and resources.
 
 # Volume 2
 
@@ -196,7 +155,7 @@ Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagin
 
 Resource CV packed with assets, video tutorials and high-res textures
 
-### Volume 3
+# Volume 3
 
 Volume 3 says it is part of the "Photoshop Creative" bookazine series by Imagine Publishing. Where Photoshop Creative is a monthly magazine published by Imagine over in the UK and Australia, it is called Advanced Photoshop in the USA. I guess by this stage the magazine known as “Fantasy Artist” no longer existed, as it finished with issue 39 in 2012.
 
