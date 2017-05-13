@@ -166,21 +166,53 @@ Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagin
 
 - Paint a colourful comic book character ([Emilio J Lopez](http://e-man.deviantart.com))
 
-- Design a Weta character
+- Design a Weta character ([Andrew Baker](http://www.andbakerdesigns.blogspot.co.nz))
 
 - Design a magical character ([Zhonglu Zhao](http://fireluzhao.cghub.com))
 
-### Creatures
+### Creatures - Bring mythical beasts to life
 
-- Bring mythical beasts to life
+- Master the art of creature creation ([Benjamin Erdt](https://www.ben-erdt.de))
 
-### Landscapes
+- Design and model sci-fi creatures ([Ben Erdt)](http://www.ben-erdt.de)
 
-- Create stunning fantasy worlds
+- Design a 3D alien ([Justin 'Goby' Fields](http://www.justingobyfields.com))
 
-### Concept
+- Develop fantastical animals ([Danail Nikov](http://didom.cghub.com))
 
-- Compose magical scenes
+- Master expert creature renders ([Iliya Atanasov](http://www.pixelhunters.com)) (3D Artist 63)
+
+### Landscapes - Create stunning fantasy worlds
+
+- Paint colourful terrain ([Joe Cummings](http://cummingsillustration.com))
+
+- Paint a fantasy snowscape (Eduardo Lopez Mustaros)
+
+- Compose a magical mountainscape ([Tobias Roetsch](http://gtgraphics.de/en/showcase/print/advanced-photoshop-issue-114)) (Advanced Photoshop 114)
+
+- Create space art ([Sebastien hue](http://www.shue-digital.com)) (Advanced Photoshop 106)
+
+- Create a fantasy matte desert landscape painting (Eduardo Lopez Mustaros)
+
+- Sculpt an epic sci-fi terrain (Tomasz Strzalkowski)
+
+- Create fantasy landscapes from photos in photoshop ([Jennifer Cirpici](http://www.breakingcanvas.com))
+
+### Concept - Compose magical scenes
+
+- Build fantasy architecture (
+
+- Concept art for a heroine character ([Simon Eckert](http://www.holysquid.de))
+
+- Create dramatic lighting effects ([Marco Nelor](http://marconelor.tumblr.com))
+
+- Compose sci-fi concept art ([Christian Hecker](http://www.tigaer-design.com))
+
+- Build videogame concept art ([Ray Lederer](http://www.raylederer.com))
+
+-Build matte paintings (
+
+-Design robot mechs
 
 **Also inside...**
 
@@ -374,6 +406,8 @@ Resource CD packed with assets and high-res textures
 
 ### **Character **- From magical to steampunk
 
+Identical to the original volume 2 but seems to be missing the Weta character tutorial.
+
 - Create a magical witch ([Jennifer Healy](http://www.beautifulburden.com))
 
 - Design a Norse character ([Lili Ibrahim](http://www.liliibrahim.com))
@@ -390,19 +424,9 @@ Resource CD packed with assets and high-res textures
 
 - Design a magical character ([Zhonglu Zhao](http://fireluzhao.cghub.com))
 
-**Creatures**
+### **Creatures - **Bring mythical beasts to life
 
-- Bring mythical beasts to life
-
-**Landscapes**
-
-- Create huge fantasy worlds
-
-**Concept**
-
-- Compose magical scenes
-
-**Also inside...**
+Only the first 2 of these were also in the original volume 2.
 
 - Master the art of creature creation ([Benjamin Erdt](https://www.ben-erdt.de))
 
@@ -411,6 +435,8 @@ Resource CD packed with assets and high-res textures
 - Build your own creature mech
 
 - Create a robot in Blender
+
+### **Landscapes **- Create huge fantasy worlds
 
 - Paint colourful terrain ([Joe Cummings](http://cummingsillustration.com))
 
@@ -425,6 +451,8 @@ Resource CD packed with assets and high-res textures
 - Sculpt an epic sci-fi landscapes (Tomasz Strzalkowski)
 
 - Create fantasy landscapes from photos ([Jennifer Cirpici](http://www.breakingcanvas.com))
+
+### **Concept **- Compose magical scenes
 
 - Concept art for a heroine character ([Simon Eckert](http://www.holysquid.de))
 
