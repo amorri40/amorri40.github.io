@@ -314,9 +314,9 @@ Turotials marked as NEW! Are new to this revision and were not in the original v
 
 *  The rules of fantasy art (Unknown)
 
-### **Portrait **- Add effects to your portraits.
+### Portrait - Add effects to your portraits.
 
-- Paint a classic fantasy heroine ([Toni Foti](http://www.tonyfotiart.com/)) NEW! 
+- Paint a classic fantasy heroine ([Toni Foti](http://www.tonyfotiart.com/)) **NEW!** 
 
 - Add 3D elements to paintings ([Bao Pham](http://www.baophamart.com))
 
@@ -324,7 +324,7 @@ Turotials marked as NEW! Are new to this revision and were not in the original v
 
 - Creative photomanipulation ([Aslı Yeniay Kizilay](http://wiksa.deviantart.com))
 
-- Paint a pin-up warrior ([Chester Ocampo](https://www.chesterocampo.net/)) NEW!
+- Paint a pin-up warrior ([Chester Ocampo](https://www.chesterocampo.net/)) **NEW!**
 
 - Paint perfect skin in Painter & Photoshop ([Marta Dahlig](http://blackeri.deviantart.com))
 
@@ -346,31 +346,37 @@ Turotials marked as NEW! Are new to this revision and were not in the original v
 
 - Comic-book character art ([Dayne Henry Jr](http://romidionstudios.com)) NEW!
 
-**Landscapes**
+### Concept
 
-- Create huge fantasy worlds.
+- Secrets of good concept art ([Kim Herbst](http://www.kimherbst.com) 2010)
+
+- Antique effects ([Abigail Daker](http://www.abigaildaker.com) 2012)
+
+- Steampunk technology ([John Malcolm](http://johnmalcolm1970.co.uk/) 2012) NEW!
+
+- Pro matte painting ([Jeffery M. DeGuznan](http://theartofjeffmd.com) 2011) (Advanced Photoshop issue 83)
+
+- Create a comics-inspired fight scene ([Matt Olson](http://mattolsonart.deviantart.com/) 2012) NEW!
+
+- The golden rules of comic art ([Kathy Ferrell](http://cuposwank.carbonmade.com) 2012)
+
+- Use PaintTool SAI ([Anneliese Mak](http://twelvecandles.co.nr) 2012)
+
+- Master Fantasy lighting ([Robyn Drason](http://rajewel.deviantart.com/) 2012) NEW!
+
+- Design a movie poster ([Simeon Elson](http://www.simeonelson.co.uk) 2011)
+
+- Fairytale/Create silhouettes ([Mary Winkler](http://acrylicana.com/) 2012) NEW!
+
+- Manga illustration on the iPad ([Patipat Asavasena](http://www.asuka111.net) 2012)
+
+### Landscapes - Create huge fantasy worlds.
 
 **Creatures**
 
 - Bring mythical beasts to life.
 
 **Also inside...**
-
-- Paint a classic fantasy heroine
-
-- Classic portrait lighting techniques
-
-- Paint a pin-up warrior
-
-- Create classic anime characters
-
-- How to design an evil character
-
-- Design magical characters
-
-- Shading dark fantasy art
-
-- Comic-book character art
 
 - Draw steampunk technology
 
