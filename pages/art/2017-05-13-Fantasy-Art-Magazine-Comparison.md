@@ -200,7 +200,7 @@ Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagin
 
 ### Concept - Compose magical scenes
 
-- Build fantasy architecture (
+- Build fantasy architecture ([Alexander Thümler](http://www.minzketchbook.com))
 
 - Concept art for a heroine character ([Simon Eckert](http://www.holysquid.de))
 
@@ -210,53 +210,11 @@ Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagin
 
 - Build videogame concept art ([Ray Lederer](http://www.raylederer.com))
 
--Build matte paintings (
+-Build matte paintings ([Dark Hoffman](http://www.darkgrafix.com))
 
--Design robot mechs
+-Design robot mechs ([Israel A Carrion](http://www.isrartistic.com))
 
-**Also inside...**
-
-- The rules of fantasy art
-
-**Portraits**
-
-- 22 fantasy art tips and techniques
-
-- Magical portrait art
-
-- Create a comicbook character ([Emilio J Lopez](http://e-man.deviantart.com))
-
-- Design a Weta character
-
-- The art of creature creation
-
-- Design original robot mechs
-
-- Create armoured creatures
-
-- Develop fantastical animals
-
-- Paint a sci/fantasy scene
-
-- Paint a fantasy snowscape (Eduardo Lopez Mustaros)
-
-- Create a space landscape ([Sebastien hue](http://www.shue-digital.com)) (Advanced Photoshop 106)
-
-- Paint a matte landscape (Eduardo Lopez Mustaros)
-
-- Build landscapes from photos ([Jennifer Cirpici](http://www.breakingcanvas.com))
-
-- Build fantasy architecture
-
-- Concept art for a heroine ([Simon Eckert](http://www.holysquid.de))
-
-- Fantasy lighting  ([Marco Nelor](http://marconelor.tumblr.com))
-
-- Sci-fi concept art ([Christian Hecker](http://www.tigaer-design.com))
-
-- Videogame concept art ([Ray Lederer](http://www.raylederer.com))
-
-**Free with this issue...**
+### Free with this issue...
 
 Resource CV packed with assets, video tutorials and high-res textures
 
