@@ -336,15 +336,15 @@ Turotials marked as NEW! Are new to this revision and were not in the original v
 
 - Paint manga ([Choo Kah Chun](http://kaizeru.deviantart.com))
 
-- How to design an evil character ([Drazenka Kimpel](http://www.creativedust.com)) NEW!
+- How to design an evil character ([Drazenka Kimpel](http://www.creativedust.com)) **NEW!**
 
-- Design magical characters ([Chester Ocampo](https://www.chesterocampo.net/)) NEW!
+- Design magical characters ([Chester Ocampo](https://www.chesterocampo.net/)) **NEW!**
 
-- Shading dark fantasy art ([Lili Ibrahim](http://www.liliibrahim.com)) NEW!
+- Shading dark fantasy art ([Lili Ibrahim](http://www.liliibrahim.com)) **NEW!**
 
 - Metallic paint in ArtRage ([Jon Hodgson](http://www.jonhodgson.com/Jon_Hodgson_Illustration_3/Home.html))
 
-- Comic-book character art ([Dayne Henry Jr](http://romidionstudios.com)) NEW!
+- Comic-book character art ([Dayne Henry Jr](http://romidionstudios.com)) **NEW!**
 
 ### Concept
 
@@ -352,39 +352,47 @@ Turotials marked as NEW! Are new to this revision and were not in the original v
 
 - Antique effects ([Abigail Daker](http://www.abigaildaker.com) 2012)
 
-- Steampunk technology ([John Malcolm](http://johnmalcolm1970.co.uk/) 2012) NEW!
+- Steampunk technology ([John Malcolm](http://johnmalcolm1970.co.uk/) 2012) **NEW!**
 
 - Pro matte painting ([Jeffery M. DeGuznan](http://theartofjeffmd.com) 2011) (Advanced Photoshop issue 83)
 
-- Create a comics-inspired fight scene ([Matt Olson](http://mattolsonart.deviantart.com/) 2012) NEW!
+- Create a comics-inspired fight scene ([Matt Olson](http://mattolsonart.deviantart.com/) 2012) **NEW!**
 
 - The golden rules of comic art ([Kathy Ferrell](http://cuposwank.carbonmade.com) 2012)
 
 - Use PaintTool SAI ([Anneliese Mak](http://twelvecandles.co.nr) 2012)
 
-- Master Fantasy lighting ([Robyn Drason](http://rajewel.deviantart.com/) 2012) NEW!
+- Master Fantasy lighting ([Robyn Drason](http://rajewel.deviantart.com/) 2012) **NEW!**
 
 - Design a movie poster ([Simeon Elson](http://www.simeonelson.co.uk) 2011)
 
-- Fairytale/Create silhouettes ([Mary Winkler](http://acrylicana.com/) 2012) NEW!
+- Fairytale/Create silhouettes ([Mary Winkler](http://acrylicana.com/) 2012) **NEW!**
 
 - Manga illustration on the iPad ([Patipat Asavasena](http://www.asuka111.net) 2012)
 
 ### Landscapes - Create huge fantasy worlds.
 
-**Creatures**
+- Paint a fantasy landscape ([Titus Lunter](http://www.tituslunter.com/) 2012) **NEW!**
 
-- Bring mythical beasts to life.
+- Construct a cityscape ([Yap Kun Rong](http://www.yapkunrong.net) 2010)
+
+- Paint a quest-fantasy scene ([Jukka Rajaniemi](http://jukka-r.deviantart.com/) 2012) **NEW!**
+
+- Combine fantasy and realism ([Amber Hill](http://vantid.deviantart.com) 2011)
+
+- Compose a spacescape ([Tobias Roetsch](http://gtgraphics.de/en/showcase/print/advanced-photoshop-issue-114) 2011)
+
+- Draw a (Manga) street scene ([Patipat Asavasena](http://www.asuka111.net) 2012)
+
+- Create fantasy worlds ([Jennifer Cirpici](http://www.breakingcanvas.com) 2011)
+
+- Paint moonlight into (fantasy) scenes ([Amber Hill](http://vantid.deviantart.com) 2011)
+
+- Design destructive cityscapes ([Vitaly S Alexius](http://vs.darkfolio.com))
+
+### **Creatures **- Bring mythical beasts to life.
 
 **Also inside...**
-
-- Draw steampunk technology
-
-- Create a comics-inspired fight scene
-
-- Fairytale silhouettes
-
-- Illustrate on the iPad
 
 - Paint a fantasy landscape
 
