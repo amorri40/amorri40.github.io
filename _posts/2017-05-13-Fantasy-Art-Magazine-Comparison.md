@@ -96,25 +96,31 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Manga illustration on the iPad ([Patipat Asavasena](http://www.asuka111.net))
 
-<table>
-  <tr>
-    <td></td>
-    <td>Landscapes
-- Paint captivating backgrounds (Amber Hill)
-- Construct a cityscape (Yap Kun Rong)
-- Paint with sponge brushes (Nick Harris)
-- Combine fantasy and realism (Amber Hill)
-- Lighting with layer masks (Joe Cummings)
-- Compose a spacescape (Tobias Roetsch)
-- Manga street scene (Patipat Asavasena)
-- Create fantasy worlds (Jennifer Cirpici)
-- Paint sci-fi settings (Alexander 'miNze' Thümler)
-- Paint moonlight into scenes (Amber Hill)
-- Design destructive cityscapes (Vitaly S Alexius)
-- Paint fantasy scenes (Lili Ibrahim)</td>
-  </tr>
-</table>
+**Landscapes**
 
+- Paint captivating backgrounds ([Amber Hill](http://vantid.deviantart.com))
+
+- Construct a cityscape ([Yap Kun Rong](http://www.yapkunrong.net))
+
+- Paint with sponge brushes ([Nick Harris](http://nickillus.com))
+
+- Combine fantasy and realism ([Amber Hill](http://vantid.deviantart.com))
+
+- Lighting with layer masks ([Joe Cummings](http://cummingsillustration.com))
+
+- Compose a spacescape ([Tobias Roetsch](http://gtgraphics.de/en/showcase/print/advanced-photoshop-issue-114))
+
+- Manga street scene ([Patipat Asavasena](http://www.asuka111.net))
+
+- Create fantasy worlds ([Jennifer Cirpici](http://www.breakingcanvas.com))
+
+- Paint sci-fi settings ([Alexander 'miNze' Thümler](http://www.minzketchbook.com))
+
+- Paint moonlight into scenes ([Amber Hill](http://vantid.deviantart.com))
+
+- Design destructive cityscapes ([Vitaly S Alexius](http://vs.darkfolio.com))
+
+- Paint fantasy scenes ([Lili Ibrahim](http://www.liliibrahim.com))
 
 <table>
   <tr>
