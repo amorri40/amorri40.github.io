@@ -1,5 +1,5 @@
 ---
-title: Fantasy Art Bookazine Comparison
+title: Fantasy Art Magazine Comparison
 layout: post
 author: amorri40
 permalink: /fantasy-art-magazine-comparison/
@@ -52,17 +52,17 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_3.png)
 
-- Mythological character art
+- Mythological character art ([Carlyn Beccia](http://www.carlynbeccia.com))
 
-- Create classic anime characters
+- Create classic anime characters ([Schin Loong](http://schin-art.com))
 
-- How to paint a steampunk fantasy
+- How to paint a steampunk fantasy ([John Malcolm](http://johnmalcolm1970.co.uk))
 
-- Paint manga
+- Paint manga ([Choo Kah Chun](http://kaizeru.deviantart.com))
 
-- Metallic paint in ArtRage
+- Metallic paint in ArtRage ([Jon Hodgson](http://www.jonhodgson.com/Jon_Hodgson_Illustration_3/Home.html))
 
-- Fantasy character
+- Fantasy character ([Jeffery M. De Guznan](http://theartofjeffmd.com))
 
 ### Concept
 
@@ -146,9 +146,29 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagine Publishing. Where Advanced Photoshop is a monthly magazine published by Imagine over in the USA, it is called Photoshop Creative in the UK and Australia.
 
+### Features
+
+* 22 Fantasy Tips and Tricks (Unknown)
+
 ### Characters
 
-- From norse goddess to vampire pin-up
+- Create a magical witch ([Jennifer Healy](http://www.beautifulburden.com))
+
+- Norse character design ([Lili Ibrahim](http://www.liliibrahim.com))
+
+- Paint a vampire pin-up ([Lili Ibrahim](http://www.liliibrahim.com))
+
+- Paint a steampunk-inspired portrait ([Ashley Walters](http://ashleywalters.net))
+
+- Create an ice queen heroine ([Drew Lundquist](https://www.drewlundquist.com)) (Advanced Photoshop 117)
+
+- Sculpt fabrics for fantasy characters ([Andrzej Kuziola](http://www.kuziola.com/digital-sculptures-3d-models))
+
+- Paint a colourful comic book character ([Emilio J Lopez](http://e-man.deviantart.com))
+
+- Design a Weta character
+
+- Design a magical character ([Zhonglu Zhao](http://fireluzhao.cghub.com))
 
 ### Creatures
 
@@ -294,7 +314,7 @@ Landscape
 
 • Over 8 hours of professional video tuition to improve your skills
 
-### Volume 1 Revised Edition
+## Volume 1 Revised Edition
 
 **Portrait**
 
@@ -350,25 +370,9 @@ Landscape
 
 Resource CD packed with assets and high-res textures
 
-### Volume 2 Revised Edition
+## Volume 2 Revised Edition
 
-**Character**
-
-- From magical to steampunk
-
-**Creatures**
-
-- Bring mythical beasts to life
-
-**Landscapes**
-
-- Create huge fantasy worlds
-
-**Concept**
-
-- Compose magical scenes
-
-**Also inside...**
+### **Character **- From magical to steampunk
 
 - Create a magical witch ([Jennifer Healy](http://www.beautifulburden.com))
 
@@ -385,6 +389,20 @@ Resource CD packed with assets and high-res textures
 - Paint a colourful comic book character ([Emilio J Lopez](http://e-man.deviantart.com))
 
 - Design a magical character ([Zhonglu Zhao](http://fireluzhao.cghub.com))
+
+**Creatures**
+
+- Bring mythical beasts to life
+
+**Landscapes**
+
+- Create huge fantasy worlds
+
+**Concept**
+
+- Compose magical scenes
+
+**Also inside...**
 
 - Master the art of creature creation ([Benjamin Erdt](https://www.ben-erdt.de))
 
