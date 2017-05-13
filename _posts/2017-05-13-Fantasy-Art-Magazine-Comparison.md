@@ -122,26 +122,27 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Paint fantasy scenes ([Lili Ibrahim](http://www.liliibrahim.com))
 
-<table>
-  <tr>
-    <td></td>
-    <td>Creatures
-- Figurative fractals & Photoshop (Gemma Hart)
-- Creating a hybrid portrait (Alyssia Indermuehle)
-- Illustrate in monochrome (Amber Hill)
-- Scale in sci-fi art (Rinehart Appiah)
-- Master Photoshop brushes (David Munoz Velazquez) (Advanced Photoshop Magazine issue 88)
-- Paint fur effects (Amber Hill) (Digital Artist Magazine Issue ???)
-- Magical night painting (Anastasia Korochanskaya) (Digital Artist Magazine issue 33)</td>
-  </tr>
-</table>
+### Creatures
 
+- Figurative fractals & Photoshop ([Gemma Hart](http://rockgem.deviantart.com))
+
+- Creating a hybrid portrait ([Alyssia Indermuehle](http://www.3dcelebrity.com))
+
+- Illustrate in monochrome ([Amber Hill](http://vantid.deviantart.com))
+
+- Scale in sci-fi art ([Rinehart Appiah](http://www.r-appiah.com))
+
+- Master Photoshop brushes ([David Munoz Velazquez](http://www.munozvelazquez.com)) (Advanced Photoshop Magazine issue 88)
+
+- Paint fur effects ([Amber Hill](http://vantid.deviantart.com)) (Digital Artist Magazine Issue ???)
+
+- Magical night painting ([Anastasia Korochanskaya](http://balaa.deviantart.com)) (Digital Artist Magazine issue 33)
 
 **Free with this issue...**
 
 - Disc packed with tutorial files and resources.
 
-## Volume 2
+# Volume 2
 
 Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagine Publishing. Where Advanced Photoshop is a monthly magazine published by Imagine over in the USA, it is called Photoshop Creative in the UK and Australia.
 
