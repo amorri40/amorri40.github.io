@@ -306,9 +306,45 @@ Landscape
 
 ## Volume 1 Revised Edition
 
-**Portrait**
+Turotials marked as NEW! Are new to this revision and were not in the original volume 1. But these are not completely new as they are still reprints from monthly magazines.
 
-- Add effects to your portraits.
+### Features
+
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_8.png)
+
+*  The rules of fantasy art (Unknown)
+
+### **Portrait **- Add effects to your portraits.
+
+- Paint a classic fantasy heroine ([Toni Foti](http://www.tonyfotiart.com/)) NEW! 
+
+- Add 3D elements to paintings ([Bao Pham](http://www.baophamart.com))
+
+- Classic portrait lighting techniques ([Drazenka Kimpe](http://www.creativedust.com))
+
+- Creative photomanipulation ([Aslı Yeniay Kizilay](http://wiksa.deviantart.com))
+
+- Paint a pin-up warrior ([Chester Ocampo](https://www.chesterocampo.net/)) NEW!
+
+- Paint perfect skin in Painter & Photoshop ([Marta Dahlig](http://blackeri.deviantart.com))
+
+- Complete guide to underpainting ([Paul Cartwright](http://www.zero9studio.co.uk))
+
+### Characters
+
+- Create classic anime characters ([Schin Loong](http://schin-art.com))
+
+- Paint manga ([Choo Kah Chun](http://kaizeru.deviantart.com))
+
+- How to design an evil character ([Drazenka Kimpel](http://www.creativedust.com)) NEW!
+
+- Design magical characters ([Chester Ocampo](https://www.chesterocampo.net/)) NEW!
+
+- Shading dark fantasy art ([Lili Ibrahim](http://www.liliibrahim.com)) NEW!
+
+- Metallic paint in ArtRage ([Jon Hodgson](http://www.jonhodgson.com/Jon_Hodgson_Illustration_3/Home.html))
+
+- Comic-book character art ([Dayne Henry Jr](http://romidionstudios.com)) NEW!
 
 **Landscapes**
 
