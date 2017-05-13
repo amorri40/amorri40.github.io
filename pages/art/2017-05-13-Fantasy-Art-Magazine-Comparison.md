@@ -1,6 +1,6 @@
 ---
 title: Fantasy Art Magazine Comparison
-layout: page
+layout: post
 author: amorri40
 permalink: /fantasy-art-magazine-comparison/
 tags:
