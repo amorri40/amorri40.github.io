@@ -22,13 +22,13 @@ However after a lot of searching the net I could only seem to come across volume
 
 Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine Publishing. Where Fantasy Artist was a monthly magazine published by Imagine Publishing in the UK ([https://gb.zinio.com/www/browse/issue.jsp?skuId=416229481#/](https://gb.zinio.com/www/browse/issue.jsp?skuId=416229481#/) ). The magazine was formally known as Digital Artist and sister title to Photoshop Creative. ([https://blog.photoshopcreative.co.uk/general/create-your-best-ever-fantasy-art/](https://blog.photoshopcreative.co.uk/general/create-your-best-ever-fantasy-art/) ).
 
-### Features
+## Features
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_1.png)
 
 *  The rules of fantasy art (Unknown)
 
-### Portraits
+## Portraits
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_2.png)
 
@@ -48,7 +48,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Complete guide to underpainting ([Paul Cartwright](http://www.zero9studio.co.uk))
 
-### Character
+## Character
 
 - Mythological character art
 
@@ -62,7 +62,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Fantasy character
 
-### Concept
+## Concept
 
 - Secrets of good concept art ([Kim Herbst](http://www.kimherbst.com))
 
@@ -86,7 +86,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Manga illustration on the iPad ([Patipat Asavasena](http://www.asuka111.net))
 
-### Landscapes
+## Landscapes
 
 - Paint captivating backgrounds ([Amber Hill](http://vantid.deviantart.com))
 
@@ -112,7 +112,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Paint fantasy scenes ([Lili Ibrahim](http://www.liliibrahim.com))
 
-### Creatures
+## Creatures
 
 - Figurative fractals & Photoshop ([Gemma Hart](http://rockgem.deviantart.com))
 
@@ -128,7 +128,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Magical night painting ([Anastasia Korochanskaya](http://balaa.deviantart.com)) (Digital Artist Magazine issue 33)
 
-### Free with this issue...
+## Free with this issue...
 
 - Disc packed with tutorial files and resources.
 
