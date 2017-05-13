@@ -44,6 +44,8 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - The rules of fantasy art
 
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_1.png)
+
 **Portraits**
 
 - Add 3D elements to paintings ([Bao Pham](http://www.baophamart.com))
