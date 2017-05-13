@@ -30,6 +30,8 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 ### Portraits
 
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_2.png)
+
 - Add 3D elements to paintings ([Bao Pham](http://www.baophamart.com))
 
 - Classic portrait lighting techniques ([Drazenka Kimpe](http://www.creativedust.com))
@@ -132,7 +134,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 # Volume 2
 
-![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_2.png)
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_3.png)
 
 Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagine Publishing. Where Advanced Photoshop is a monthly magazine published by Imagine over in the USA, it is called Photoshop Creative in the UK and Australia.
 
