@@ -18,23 +18,9 @@ However after a lot of searching the net I could only seem to come across volume
 
 # Volume 1
 
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_0.png)
+
 Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine Publishing. Where Fantasy Artist was a monthly magazine published by Imagine Publishing in the UK ([https://gb.zinio.com/www/browse/issue.jsp?skuId=416229481#/](https://gb.zinio.com/www/browse/issue.jsp?skuId=416229481#/) ). The magazine was formally known as Digital Artist and sister title to Photoshop Creative. ([https://blog.photoshopcreative.co.uk/general/create-your-best-ever-fantasy-art/](https://blog.photoshopcreative.co.uk/general/create-your-best-ever-fantasy-art/) ).
-
-**Portrait & character**
-
-- Paint perfect fantasy portraits and design manga and steampunk characters.
-
-**Concept**
-
-- Let your imagination run wild and design stunning sci-fi scenes.
-
-**Landscapes**
-
-- Create sprawling cityscapes and futuristic vistas.
-
-**Creatures**
-
-- Construct mythical and magical beasts.
 
 **Also inside...**
 
