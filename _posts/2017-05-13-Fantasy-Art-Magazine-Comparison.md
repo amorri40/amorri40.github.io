@@ -72,24 +72,29 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Fantasy character
 
-<table>
-  <tr>
-    <td></td>
-    <td>Concept
-- Secrets of good concept art (Kim Herbst)
-- Design decorative backgrounds (Natsuki Otani)
-- Fantasy art on the iPad (Kari Christensen)
-- Antique effects (Abigail Daker)
-- Pro matte painting (Jeffery M. De
-Guznan) (Advanced Photoshop issue 83)
-- Draw a fantasy fairy-tale character/scene (Sandra Dieckmann)
-- Use PaintTool SAI (Anneliese Mak)
-- The golden rules of comic art (Kathy Ferrell)
-- Design a movie poster (Simeon Elson)
-- Manga illustration on the iPad (Patipat Asavasena)</td>
-  </tr>
-</table>
+**Concept**
 
+- Secrets of good concept art ([Kim Herbst](http://www.kimherbst.com))
+
+- Design decorative backgrounds ([Natsuki Otani](http://cargocollective.com/natsukiotani/))
+
+- Fantasy art on the iPad ([Kari Christensen](http://www.karichristensen.com))
+
+- Antique effects ([Abigail Daker](http://www.abigaildaker.com))
+
+- Pro matte painting ([Jeffery M. De](http://theartofjeffmd.com)
+
+[Guznan](http://theartofjeffmd.com)) (Advanced Photoshop issue 83)
+
+- Draw a fantasy fairy-tale character/scene ([Sandra Dieckmann](http://www.sandradieckmann.com))
+
+- Use PaintTool SAI ([Anneliese Mak](http://twelvecandles.co.nr))
+
+- The golden rules of comic art ([Kathy Ferrell](http://cuposwank.carbonmade.com))
+
+- Design a movie poster ([Simeon Elson](http://www.simeonelson.co.uk))
+
+- Manga illustration on the iPad ([Patipat Asavasena](http://www.asuka111.net))
 
 <table>
   <tr>
