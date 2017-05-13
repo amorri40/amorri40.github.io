@@ -138,6 +138,8 @@ Guznan) (Advanced Photoshop issue 83)
 
 ### Volume 2
 
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_2.png)
+
 Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagine Publishing. Where Advanced Photoshop is a monthly magazine published by Imagine over in the USA, it is called Photoshop Creative in the UK and Australia.
 
 **Characters**
