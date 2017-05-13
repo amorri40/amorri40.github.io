@@ -1,6 +1,6 @@
 ---
 title: Fantasy Art Magazine Comparison
-layout: post
+layout: page
 author: amorri40
 permalink: /fantasy-art-magazine-comparison/
 tags:
@@ -26,23 +26,21 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 *  The rules of fantasy art ()
 
-### Portraits
+<table>
+  <tr>
+    <td></td>
+    <td>Portraits
+- Add 3D elements to paintings (Bao Pham)
+- Classic portrait lighting techniques (Drazenka Kimpe)
+- Creative photomanipulation (Aslı Yeniay Kizilay)
+- Use filters creatively (Francisco Perez)
+- Add neon colours to portraits (Bao Pham)
+- Fantasy lighting (Kelley Harris)
+- Paint perfect skin in Painter & Photoshop (Marta Dahlig)
+- Complete guide to underpainting (Paul Cartwright)</td>
+  </tr>
+</table>
 
-- Add 3D elements to paintings ([Bao Pham](http://www.baophamart.com))
-
-- Classic portrait lighting techniques ([Drazenka Kimpe](http://www.creativedust.com))
-
-- Creative photomanipulation ([Aslı Yeniay Kizilay](http://wiksa.deviantart.com))
-
-- Use filters creatively ([Francisco Perez](http://www.pac23.com))
-
-- Add neon colours to portraits ([Bao Pham](http://www.baophamart.com))
-
-- Fantasy lighting ([Kelley Harris](http://krhart.com))
-
-- Paint perfect skin in Painter & Photoshop ([Marta Dahlig](http://blackeri.deviantart.com))
-
-- Complete guide to underpainting ([Paul Cartwright](http://www.zero9studio.co.uk))
 
 ### Character
 
