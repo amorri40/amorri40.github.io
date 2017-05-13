@@ -16,19 +16,19 @@ After a while of reading I decided to see if I could purchase the other 6 books,
 
 However after a lot of searching the net I could only seem to come across volume 1,2,3 and 7, where had issues 4,5 and 6 gone? There seemed to be no trace of their existence.
 
-# Volume 1
+## Volume 1
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_0.png)
 
 Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine Publishing. Where Fantasy Artist was a monthly magazine published by Imagine Publishing in the UK ([https://gb.zinio.com/www/browse/issue.jsp?skuId=416229481#/](https://gb.zinio.com/www/browse/issue.jsp?skuId=416229481#/) ). The magazine was formally known as Digital Artist and sister title to Photoshop Creative. ([https://blog.photoshopcreative.co.uk/general/create-your-best-ever-fantasy-art/](https://blog.photoshopcreative.co.uk/general/create-your-best-ever-fantasy-art/) ).
 
-## Features
+### Features
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_1.png)
 
 *  The rules of fantasy art (Unknown)
 
-## Portraits
+### Portraits
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_2.png)
 
@@ -48,7 +48,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Complete guide to underpainting ([Paul Cartwright](http://www.zero9studio.co.uk))
 
-## Character
+### Character
 
 - Mythological character art
 
@@ -62,7 +62,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Fantasy character
 
-## Concept
+### Concept
 
 - Secrets of good concept art ([Kim Herbst](http://www.kimherbst.com))
 
@@ -86,7 +86,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Manga illustration on the iPad ([Patipat Asavasena](http://www.asuka111.net))
 
-## Landscapes
+### Landscapes
 
 - Paint captivating backgrounds ([Amber Hill](http://vantid.deviantart.com))
 
@@ -112,7 +112,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Paint fantasy scenes ([Lili Ibrahim](http://www.liliibrahim.com))
 
-## Creatures
+### Creatures
 
 - Figurative fractals & Photoshop ([Gemma Hart](http://rockgem.deviantart.com))
 
@@ -128,29 +128,29 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Magical night painting ([Anastasia Korochanskaya](http://balaa.deviantart.com)) (Digital Artist Magazine issue 33)
 
-## Free with this issue...
+### Free with this issue...
 
 - Disc packed with tutorial files and resources.
 
-# Volume 2
+## Volume 2
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_3.png)
 
 Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagine Publishing. Where Advanced Photoshop is a monthly magazine published by Imagine over in the USA, it is called Photoshop Creative in the UK and Australia.
 
-**Characters**
+### Characters
 
 - From norse goddess to vampire pin-up
 
-**Creatures**
+### Creatures
 
 - Bring mythical beasts to life
 
-**Landscapes**
+### Landscapes
 
 - Create stunning fantasy worlds
 
-**Concept**
+### Concept
 
 - Compose magical scenes
 
@@ -200,7 +200,7 @@ Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagin
 
 Resource CV packed with assets, video tutorials and high-res textures
 
-# Volume 3
+## Volume 3
 
 Volume 3 says it is part of the "Photoshop Creative" bookazine series by Imagine Publishing. Where Photoshop Creative is a monthly magazine published by Imagine over in the UK and Australia, it is called Advanced Photoshop in the USA. I guess by this stage the magazine known as “Fantasy Artist” no longer existed, as it finished with issue 39 in 2012.
 
