@@ -26,7 +26,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - The rules of fantasy art
 
-**Portraits**
+### Portraits
 
 - Add 3D elements to paintings ([Bao Pham](http://www.baophamart.com))
 
@@ -44,7 +44,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Complete guide to underpainting ([Paul Cartwright](http://www.zero9studio.co.uk))
 
-**Character**
+### Character
 
 - Mythological character art
 
@@ -58,7 +58,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Fantasy character
 
-**Concept**
+### Concept
 
 - Secrets of good concept art ([Kim Herbst](http://www.kimherbst.com))
 
@@ -82,7 +82,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Manga illustration on the iPad ([Patipat Asavasena](http://www.asuka111.net))
 
-**Landscapes**
+### Landscapes
 
 - Paint captivating backgrounds ([Amber Hill](http://vantid.deviantart.com))
 
