@@ -92,6 +92,8 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 ### Landscapes
 
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_5.png)
+
 - Paint captivating backgrounds ([Amber Hill](http://vantid.deviantart.com))
 
 - Construct a cityscape ([Yap Kun Rong](http://www.yapkunrong.net))
@@ -138,7 +140,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 ## Volume 2
 
-![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_5.png)
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_6.png)
 
 Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagine Publishing. Where Advanced Photoshop is a monthly magazine published by Imagine over in the USA, it is called Photoshop Creative in the UK and Australia.
 
