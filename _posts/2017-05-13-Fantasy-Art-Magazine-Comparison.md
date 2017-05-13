@@ -62,19 +62,19 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Complete guide to underpainting ([Paul Cartwright](http://www.zero9studio.co.uk))
 
-<table>
-  <tr>
-    <td></td>
-    <td>Character
-- Mythological character art
-- Create classic anime characters
-- How to paint a steampunk fantasy
-- Paint manga
-- Metallic paint in ArtRage
-- Fantasy character</td>
-  </tr>
-</table>
+**Character**
 
+- Mythological character art
+
+- Create classic anime characters
+
+- How to paint a steampunk fantasy
+
+- Paint manga
+
+- Metallic paint in ArtRage
+
+- Fantasy character
 
 <table>
   <tr>
