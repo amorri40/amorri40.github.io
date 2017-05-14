@@ -180,7 +180,7 @@ Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagin
 
 - Develop fantastical animals ([Danail Nikov](http://didom.cghub.com))
 
-- Master expert creature renders ([Iliya Atanasov](http://www.pixelhunters.com)) (3D Artist 63)
+- Master expert creature renders ([Iliya Atanasov](http://www.pixelhunters.com)) (3D Artist #63)
 
 ### Landscapes - Create stunning fantasy worlds
 
@@ -222,25 +222,7 @@ Resource CV packed with assets, video tutorials and high-res textures
 
 Volume 3 says it is part of the "Photoshop Creative" bookazine series by Imagine Publishing. Where Photoshop Creative is a monthly magazine published by Imagine over in the UK and Australia, it is called Advanced Photoshop in the USA. I guess by this stage the magazine known as “Fantasy Artist” no longer existed, as it finished with issue 39 in 2012.
 
-**Concept**
-
-- Create brilliant concepts for your fantasy worlds
-
-**Character**
-
-- Design amazing characters
-
-**Landscape**
-
-- Make brand-new worlds for your characters
-
-**3D Printing**
-
-- Get ready to 3D print your designs
-
-**Also inside...**
-
-Concept 
+### Concept 
 
 - Build your own dystopia concept 
 
@@ -256,7 +238,7 @@ Concept
 
 - Build a robot in ZBrush
 
-Character
+### Character
 
 - Create a convincing cartoon character
 
@@ -280,7 +262,7 @@ Character
 
 - Add drama with blend modes
 
-Landscape
+### Landscape
 
 - Render a fairytale castle
 
@@ -296,7 +278,7 @@ Landscape
 
 - Create a landscape with brushes
 
-**- Free with this bookazine...**
+### Free with this bookazine...
 
 • Source files to follow tutorials
 
@@ -306,7 +288,7 @@ Landscape
 
 ## Volume 1 Revised Edition
 
-Turotials marked as NEW! Are new to this revision and were not in the original volume 1. But these are not completely new as they are still reprints from monthly magazines.
+Tutorials marked as **NEW!** Are new to this revision and were not in the original volume 1. But these are not completely new as they are still reprints from monthly magazines.
 
 ### Features
 
@@ -454,9 +436,9 @@ Only the first 2 of these were also in the original volume 2.
 
 - Master expert creature renders ([lliya Atanasov)](http://www.pixelhunters.com/en/projects/view/74) (3D Artist 63)
 
-- Build your own creature mech
+- Build your own creature mech **NEW!**
 
-- Create a robot in Blender
+- Create a robot in Blender **NEW!**
 
 ### **Landscapes **- Create huge fantasy worlds
 
@@ -484,9 +466,9 @@ Only the first 2 of these were also in the original volume 2.
 
 - Build videogame concept art ([Ray Lederer](http://www.raylederer.com))
 
-- Make a convincing spacecraft design
+- Make a convincing spacecraft design **NEW!**
 
-- Master hard-surface modelling
+- Master hard-surface modelling **NEW!**
 
 ### Volume 3 Revised edition
 
