@@ -392,23 +392,37 @@ Turotials marked as NEW! Are new to this revision and were not in the original v
 
 ### **Creatures **- Bring mythical beasts to life.
 
-**Also inside...**
+- Design fantasy creatures ([Eric Proctor](http://tsaoshin.deviantart.com/) 2012) **NEW!**
 
-- Paint a fantasy landscape
+- Illustrate in monochrome ([Amber Hill](http://vantid.deviantart.com) 2011)
 
-- Paint a quest-fantasy scene
+- Scale in sci-fi art ([Rinehart Appiah](http://www.r-appiah.com) 2012)
 
-- Draw a street scene
+- Paint a dragon in flight ([Eric Proctor](http://tsaoshin.deviantart.com/) 2012) **NEW!**
 
-- Design fantasy creatures
+- Master Photoshop brushes ([David Munoz Velazquez](http://www.munozvelazquez.com) 2011) (Advanced Photoshop #88)
 
-- Paint a dragon in flight
+- Paint fur effects ([Amber Hill](http://vantid.deviantart.com) 2012) (Digital Artist #??)
 
-- Creature-based action scenes
+- Creature-based action scenes ([Ken Barthelemy](http://theartofken.com/) 2012) **NEW!**
 
-**Free with this issue...**
+- Magical night painting/lighting ([Anastasia Korochanskaya](http://balaa.deviantart.com) 2012) (Digital Artist #33)
+
+### Free with this issue...
 
 Resource CD packed with assets and high-res textures
+
+* 2 Video Tutorials:
+
+    * Premium Digital Painting Portrait Effect in Photoshop (Andrei Oprinca) 1 hour on PSDBox
+
+    * Digital Art: Rules for Good Shapes (Charles Bernard) (OnlineArtAcademy.com)
+
+* Tutorial files
+
+* 33 hi-res textures (Go Media)
+
+* 13 stone and blood text styles (Ultimate Bundles)
 
 ## Volume 2 Revised Edition
 
