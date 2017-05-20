@@ -490,41 +490,41 @@ Only the first 2 of these were also in the original volume 2.
 
 30 Sculpt dynamic forms ([Daniel Bel](https://www.facebook.com/danielmartinbel/))
 
-38 Awaken a beast with ZBrush
+38 Awaken a beast with ZBrush ([James Suret](https://www.artstation.com/artist/zerojs))
 
-46 Model and render a submersible drone 
+46 Model and render a submersible drone ([Colie Wertz](http://coliewertz.com/))
 
-54 Kitbash and model a mech
+54 Kitbash and model a mech ([Tor Frick](http://www.torfrick.com/))
 
 ### Character
 
-62 Create a convincing cartoon character 
+62 Create a convincing cartoon character ([Carlos Ortega Elizalde](http://carlosortega3d.com/))
 
-68 Texture distinct steampunk characters 
+68 Texture distinct steampunk characters ([Aldo Vicente](https://www.artstation.com/artist/aldovicente50))
 
-76 Perfect colourised characters
+76 Perfect colourised characters ([Nicolas Delhelle](https://www.facebook.com/nicolasdelhelle/))
 
-82 Colour your fantasy composite
+82 Colour your fantasy composite ([Kevin Lohstroh](https://www.discogs.com/artist/4074552-Kevin-Lohstroh))
 
-88 Develop your own mutant
+88 Develop your own mutant ([Brandon Cawood](http://brandoncawood.format.com/))
 
-94 Make your own steampunk captain 
+94 Make your own steampunk captain ([David Nakayama](http://davidnakayama.com/)) 
 
-100 Retouch a fantasy sorceress
+100 Retouch a fantasy sorceress ([John Ross](http://www.theartofretouching.com/))
 
-106 Render a cyberpunk character
+106 Render a cyberpunk character ([Damon Woods](https://dkwoods.carbonmade.com/))
 
-114 Design an Elven archer
+114 Design an Elven archer ([Aaron Hunwick](https://www.artstation.com/artist/ahunwick))
 
-120 Fashion pro key art
+120 Fashion pro key art (Davide Blanca, [Andrea Mancuso](https://www.behance.net/bakabakashii))
 
-126 Add drama with blend modes
+126 Add drama with blend modes ([Souflane Idrassi](https://www.artstation.com/artist/cgsoufiane))
 
 ### Landscape
 
-134 Render a fairytale castle
+134 Render a fairytale castle ()
 
-142 Construct a landscape from photos 
+142 Construct a landscape from photos ()
 
 148 Paint a digital landscape
 
