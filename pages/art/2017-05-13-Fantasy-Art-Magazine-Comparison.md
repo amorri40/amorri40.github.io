@@ -240,27 +240,27 @@ Volume 3 says it is part of the "Photoshop Creative" bookazine series by Imagine
 
 ### Character
 
-- Create a convincing cartoon character
+- Create a convincing cartoon character ([Carlos Ortega Elizalde](http://carlosortega3d.com/))
 
-- Texture distinct steampunk characters
+- Texture distinct steampunk characters ([Aldo Vicente](https://www.artstation.com/artist/aldovicente50))
 
-- Perfect colourised characters
+- Perfect colourised characters ([Nicolas Delhelle](https://www.facebook.com/nicolasdelhelle/))
 
-- Colour your fantasy composite
+- Colour your fantasy composite ([Kevin Lohstroh](https://www.discogs.com/artist/4074552-Kevin-Lohstroh))
 
-- Develop your own mutant
+- Develop your own mutant ([Brandon Cawood](http://brandoncawood.format.com/))
 
-- Make your own Steampunk captain
+- Make your own Steampunk captain ([David Nakayama](http://davidnakayama.com/))
 
-- Retouch a fantasy sorceress
+- Retouch a fantasy sorceress ([John Ross](http://www.theartofretouching.com/))
 
-- Sculpt a dark knight in ZBrush
+- Sculpt a dark knight in ZBrush ([Andreas Hopen](https://www.artstation.com/artist/hopen))
 
-- Design an Elven archer
+- Design an Elven archer ([Aaron Hunwick](https://www.artstation.com/artist/ahunwick))
 
-- Fashion pro key art
+- Fashion pro key art  (Davide Blanca, [Andrea Mancuso](https://www.behance.net/bakabakashii))
 
-- Add drama with blend modes
+- Add drama with blend modes ([Souflane Idrassi](https://www.artstation.com/artist/cgsoufiane))
 
 ### Landscape
 
@@ -492,9 +492,9 @@ Only the first 2 of these were also in the original volume 2.
 
 38 Awaken a beast with ZBrush ([James Suret](https://www.artstation.com/artist/zerojs))
 
-46 Model and render a submersible drone ([Colie Wertz](http://coliewertz.com/))
+46 Model and render a submersible drone **NEW! **([Colie Wertz](http://coliewertz.com/))
 
-54 Kitbash and model a mech ([Tor Frick](http://www.torfrick.com/))
+54 Kitbash and model a mech **NEW!** ([Tor Frick](http://www.torfrick.com/))
 
 ### Character
 
@@ -512,7 +512,7 @@ Only the first 2 of these were also in the original volume 2.
 
 100 Retouch a fantasy sorceress ([John Ross](http://www.theartofretouching.com/))
 
-106 Render a cyberpunk character ([Damon Woods](https://dkwoods.carbonmade.com/))
+106 Render a cyberpunk character **NEW!** ([Damon Woods](https://dkwoods.carbonmade.com/))
 
 114 Design an Elven archer ([Aaron Hunwick](https://www.artstation.com/artist/ahunwick))
 
