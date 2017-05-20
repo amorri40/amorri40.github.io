@@ -544,6 +544,14 @@ Free with this bookazine...
 
     * [Learn to create exteriors in Poser Pro with this great tutorial](https://www.youtube.com/watch?v=jsmx0oliZwI) (Renderosity)
 
+    * [Learn to paint textures with Maya and Photoshop](https://www.digitaltutors.com/tutorial/1781-Texture-Painting-in-Maya-and-Photoshop) (Digital Tutors)
+
+    * [Techniques for sculpting like the masters in ZBrush](https://www.digitaltutors.com/tutorial/1357-Techniques-for-Sculpting-Like-the-Masters-in-ZBrush) (Digital Tutors)
+
+    * [3D Digital Paintover](https://www.filesilo.co.uk/video-tutorials/3d-digital-paintover/) (Ctrl+Paint)
+
+    * [Sculpting workflows in Blender](https://www.digitaltutors.com/tutorial/1901-Sculpting-Workflows-in-Blender) (Digital Tutors)
+
 * 20 spray and drip Photoshop brushes (from [Media Militia](http://mediamilitia.com/))
 
 * 50 glossy blood splatters for those warring fantasy characters (from [SparkleStock](http://www.sparklestock.com/) worth $6)
@@ -560,5 +568,5 @@ Free with this bookazine...
 
 * I was interested in finding out if all 7 issues of this magazine actually exist and if so where to buy them.
 
-* Sadly it turns out there are only 3 unique ones and the rest are revised editions or re-releases of previous content.
+* Sadly it turns out there are only 3 unique ones and the rest are revised editions or re-releases of previous content. Although the revised editions do have new content added it's not enough to justify owning both versions of the same bookazine.
 
