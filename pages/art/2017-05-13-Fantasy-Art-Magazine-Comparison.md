@@ -522,19 +522,19 @@ Only the first 2 of these were also in the original volume 2.
 
 ### Landscape
 
-134 Render a fairytale castle ()
+134 Render a fairytale castle ([Ben Simonds](https://bensimonds.com/))
 
-142 Construct a landscape from photos ()
+142 Construct a landscape from photos ([Nadegda Mihailova](http://nm-art.deviantart.com/))
 
-148 Paint a digital landscape
+148 Paint a digital landscape ([Paul Scott Canavan](https://www.artstation.com/artist/paulscottcanavan))
 
-154 Imagine epic fantasy landscapes 
+154 Imagine epic fantasy landscapes ([Tony Andreas Rudolph](http://www.zulusplitter.de))
 
-158 Work with matte painting
+158 Work with matte painting ()
 
-164 Master pro painting techniques 
+164 Master pro painting techniques () 
 
-168 Create a landscape with brushes 
+168 Create a landscape with brushes () 
 
 Free with this bookazine...
 
