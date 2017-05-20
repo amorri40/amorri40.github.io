@@ -264,19 +264,19 @@ Volume 3 says it is part of the "Photoshop Creative" bookazine series by Imagine
 
 ### Landscape
 
-- Render a fairytale castle
+- Render a fairytale castle  ([Ben Simonds](https://bensimonds.com/))
 
-- Construct a landscape from photos
+- Construct a landscape from photos ([Nadegda Mihailova](http://nm-art.deviantart.com/))
 
-- Paint a digital landscape
+- Paint a digital landscape ([Paul Scott Canavan](https://www.artstation.com/artist/paulscottcanavan))
 
-- Imagine epic fantasy landscapes 
+- Imagine epic fantasy landscapes ([Tony Andreas Rudolph](http://www.zulusplitter.de))
 
-- Work with matte painting
+- Work with matte painting ([Tony Andreas Rudolph](http://www.zulusplitter.de))
 
-- Master pro painting techniques 
+- Master pro painting techniques ([Andres Avaray](http://www.avaray.com/)) 
 
-- Create a landscape with brushes
+- Create a landscape with brushes ([Paul Scott Canavan](https://www.artstation.com/artist/paulscottcanavan))
 
 ### Free with this bookazine...
 
@@ -530,11 +530,11 @@ Only the first 2 of these were also in the original volume 2.
 
 154 Imagine epic fantasy landscapes ([Tony Andreas Rudolph](http://www.zulusplitter.de))
 
-158 Work with matte painting ()
+158 Work with matte painting ([Tony Andreas Rudolph](http://www.zulusplitter.de))
 
-164 Master pro painting techniques () 
+164 Master pro painting techniques ([Andres Avaray](http://www.avaray.com/)) 
 
-168 Create a landscape with brushes () 
+168 Create a landscape with brushes ([Paul Scott Canavan](https://www.artstation.com/artist/paulscottcanavan))
 
 Free with this bookazine...
 
