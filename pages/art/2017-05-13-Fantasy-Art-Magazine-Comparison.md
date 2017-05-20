@@ -224,15 +224,15 @@ Volume 3 says it is part of the "Photoshop Creative" bookazine series by Imagine
 
 ### Concept 
 
-- Build your own dystopia concept 
+- Build your own dystopia concept ([Tony Andreas Rudolph](http://www.zulusplitter.de))
 
-- Design your own fantasy vehicles
+- Design your own fantasy vehicles ([Stefano Tsai](http://stefanotsai.com/))
 
-- Produce your own 3D concept
+- Produce your own 3D concept  ([Tomáš Müller](http://tomasmuller.com/))
 
-- Sculpt dynamic forms
+- Sculpt dynamic forms ([Daniel Bel](https://www.facebook.com/danielmartinbel/))
 
-- Awaken a beast with ZBrush
+- Awaken a beast with ZBrush ([James Suret](https://www.artstation.com/artist/zerojs))
 
 - Model monsters for 3D printing
 
@@ -470,7 +470,87 @@ Only the first 2 of these were also in the original volume 2.
 
 - Master hard-surface modelling **NEW!**
 
-### Volume 3 Revised edition
+## Volume 3 Revised edition
+
+		 	 	 		
+
+			
+
+				
+
+					
+
+### Concept
+
+10 Build your own dystopia concept ([Tony Andreas Rudolph](http://www.zulusplitter.de))
+
+16 Design your own fantasy vehicles ([Stefano Tsai](http://stefanotsai.com/))
+
+24 Produce your own 3D concept ([Tomáš Müller](http://tomasmuller.com/))
+
+30 Sculpt dynamic forms ([Daniel Bel](https://www.facebook.com/danielmartinbel/))
+
+38 Awaken a beast with ZBrush
+
+46 Model and render a submersible drone 
+
+54 Kitbash and model a mech
+
+### Character
+
+62 Create a convincing cartoon character 
+
+68 Texture distinct steampunk characters 
+
+76 Perfect colourised characters
+
+82 Colour your fantasy composite
+
+88 Develop your own mutant
+
+94 Make your own steampunk captain 
+
+100 Retouch a fantasy sorceress
+
+106 Render a cyberpunk character
+
+114 Design an Elven archer
+
+120 Fashion pro key art
+
+126 Add drama with blend modes
+
+### Landscape
+
+134 Render a fairytale castle
+
+142 Construct a landscape from photos 
+
+148 Paint a digital landscape
+
+154 Imagine epic fantasy landscapes 
+
+158 Work with matte painting
+
+164 Master pro painting techniques 
+
+168 Create a landscape with brushes 
+
+Free with this bookazine...
+
+* Essential video tutorials on crafting spectacular fantasy landscapes from the experts at Digital-Tutors
+
+    * [Painting a fantasy environment in photoshop with jonas de ro](https://www.digitaltutors.com/tutorial/897-Painting-a-Fantasy-Environment-in-Photoshop) (Digital Tutors)
+
+    * [Learn to create exteriors in Poser Pro with this great tutorial](https://www.youtube.com/watch?v=jsmx0oliZwI) (Renderosity)
+
+* 20 spray and drip Photoshop brushes (from [Media Militia](http://mediamilitia.com/))
+
+* 50 glossy blood splatters for those warring fantasy characters (from [SparkleStock](http://www.sparklestock.com/) worth $6)
+
+* 80 large Bokeh effect photoshop brushes (from [SparkleStock](http://www.sparklestock.com/) worth $5)
+
+* 50 Paint Splatter Brushes (from Imagine Publishing)
 
 ### Other Interesting Links about Fantasy Artist Magazine
 
