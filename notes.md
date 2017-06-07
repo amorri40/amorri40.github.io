@@ -8,8 +8,10 @@ menu: Notes
 ## Art
 - [Fantasy-art-magazine-comparison](/fantasy-art-magazine-comparison/) - A comparison of the different volumes in the "Fantasy Art" bookazine series
 
+## Emulation
+- [Code-data-logger](/code-data-logger) - Information about the Code Data Logger built into some emulators
+
 ## Java
-- [Dom4j](https://dom4j.github.io/) - Flexible XML framework
 - [Gson](https://github.com/google/gson) - Google Library to support JSON
 - [Xstream](http://x-stream.github.io/index.html) -  Serialize objects to XML and back again
 - [JAXB](https://jaxb.java.net/) - Java Architecture for XML Binding
