@@ -38,6 +38,10 @@ The Code/Data Logger makes it much easier to reverse-engineer NES ROMs. The basi
 
 * Share files to get multiple people to help map out a rom
 
+### CDL versus Trace Logging
+
+* CDL is different than simply trace logging, in that you just care about how the rom is mapped out and a disassembly of it. Where as a trace logger is to give you an insight into what the registers and such, contain at the time of logging the disassembly. [1] 
+
 ### How Code/Data Logger works
 
 * The CDL is mapped in real time, so you need to play the rom in an emulator from start to finish, to map it out. You need to do as much as possible: dieing, alternate paths, 2 players, secret areas etc
@@ -155,7 +159,17 @@ CDL files are just a mask of the ROM; that is, they are of the same size as the 
 </table>
 
 
+### Implementation of a Code Data Logger
+
+* The emulator creates a large Byte array, that's equal to the size of the rom. 
+
+    * Each byte in the array corresponds to a byte in the rom address. So it's a map of the rom. 
+
+        * Each bit in the byte represents how that data was accessed. For instance, Bit0= code, Bit1=data, Bit8= first byte of opcode. 
+
+        * Other bits can represent how the data was accessed; directly, indirectly, indirectly for a jump table, etc. [1]
+
 ## References
 
-* **[Tomaitheous - details about format of CD**L](http://gendev.spritesmind.net/forum/memberlist.php?mode=viewprofile&u=83&sid=e08651c26032bd6aed6ed20888315ea5)
+1. **[Tomaitheous - details about format of CD**L](http://gendev.spritesmind.net/forum/memberlist.php?mode=viewprofile&u=83&sid=e08651c26032bd6aed6ed20888315ea5)
 
