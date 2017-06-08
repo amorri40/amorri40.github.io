@@ -169,7 +169,15 @@ CDL files are just a mask of the ROM; that is, they are of the same size as the 
 
         * Other bits can represent how the data was accessed; directly, indirectly, indirectly for a jump table, etc. [1]
 
+* Difficulties implementing CDL are:
+
+    * Many games using different access to same data. For example read long to read two words (for example coordinates x, y). [2]
+
 ## References
 
-1. **[Tomaitheous - details about format of CD**L](http://gendev.spritesmind.net/forum/memberlist.php?mode=viewprofile&u=83&sid=e08651c26032bd6aed6ed20888315ea5)
+1. **[Tomaitheous - details about format of CD**L](http://gendev.spritesmind.net/forum/memberlist.php?mode=viewprofile&u=83&sid=e08651c26032bd6aed6ed20888315ea5) and implementation details
+
+2. **[r57shel**l](http://gendev.spritesmind.net/forum/memberlist.php?mode=viewprofile&u=609&sid=e08651c26032bd6aed6ed20888315ea5) - difficulties of implementing CDL
+
+3. [http://www.fceux.com/web/help/fceux.html?CodeDataLogger.html](http://www.fceux.com/web/help/fceux.html?CodeDataLogger.html) 
 
