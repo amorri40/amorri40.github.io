@@ -14,6 +14,8 @@ published: true
 ---
 # Code Data Logger (Emulation)
 
+![image alt text]({{ site.url }}/public/IiA83YXfAzYaSGTnQsabPA_img_0.png)
+
 ### Purpose of the Code Data Logger
 
 The Code/Data Logger makes it much easier to reverse-engineer NES ROMs. The basic idea behind it is that a normal NES disassembler cannot distinguish between code (which is executed) and data (which is read). The Code/Data Logger keeps track of what is executed and what is read while the game is played, and then you can save this information into a .cdl file, which is essentially a **mask** that tells which bytes in the ROM are code and which are data. The file can be used in conjunction with a suitable disassembler to disassemble only the actual game code, resulting in a much cleaner source code where code and data are properly separated.
