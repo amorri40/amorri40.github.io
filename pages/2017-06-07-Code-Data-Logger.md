@@ -68,6 +68,10 @@ The Code/Data Logger makes it much easier to reverse-engineer NES ROMs. The basi
 
 CDL files are just a mask of the ROM; that is, they are of the same size as the ROM, and each byte represents the corresponding byte of the ROM. The format of each byte is like so (in binary):
 
+* The CDL format needs to be specific for the target system. 
+
+    * Things like how the data was accessed in length, would be essential for Genesis (so instead of just 1 bit for data, use 2 bits - so you can know if the data was accessed as a byte, word, or long).
+
 ### FCEUX (NES) Format
 
 #### For PRG ROM (8 bits in a byte):
@@ -150,4 +154,8 @@ CDL files are just a mask of the ROM; that is, they are of the same size as the 
   </tr>
 </table>
 
+
+## References
+
+* **[Tomaitheous - details about format of CD**L](http://gendev.spritesmind.net/forum/memberlist.php?mode=viewprofile&u=83&sid=e08651c26032bd6aed6ed20888315ea5)
 
