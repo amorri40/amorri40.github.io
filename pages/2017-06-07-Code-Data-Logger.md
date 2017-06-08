@@ -34,6 +34,14 @@ The Code/Data Logger makes it much easier to reverse-engineer NES ROMs. The basi
 
 * Know which bytes are unused to look for hidden gems, unused game assets
 
+* Mark which byte is the first byte of an opcode to make more accurate disassembly listings
+
+* Share files to get multiple people to help map out a rom
+
+### How Code/Data Logger works
+
+* The CDL is mapped in real time, so you need to play the rom in an emulator from start to finish, to map it out. You need to do as much as possible: dieing, alternate paths, 2 players, secret areas etc
+
 ## CDL Tools
 
 ### Emulators that support CDL creation
@@ -42,7 +50,7 @@ The Code/Data Logger makes it much easier to reverse-engineer NES ROMs. The basi
 
 * Bizhawk - 
 
-* Exodus - 
+* Exodus - [https://www.exodusemulator.com](https://www.exodusemulator.com) 
 
 ### Disassemblers that support CDL input
 
