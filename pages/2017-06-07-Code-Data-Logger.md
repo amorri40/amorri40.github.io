@@ -52,7 +52,7 @@ The Code/Data Logger makes it much easier to reverse-engineer NES ROMs. The basi
 
 * FCEUX - [http://www.fceux.com/web/help/fceux.html?CodeDataLogger.html](http://www.fceux.com/web/help/fceux.html?CodeDataLogger.html) 
 
-* Bizhawk - 
+* Bizhawk - [http://tasvideos.org/Bizhawk/CodeDataLogger.html](http://tasvideos.org/Bizhawk/CodeDataLogger.html) 
 
 * Exodus - [https://www.exodusemulator.com](https://www.exodusemulator.com) 
 
@@ -63,10 +63,6 @@ The Code/Data Logger makes it much easier to reverse-engineer NES ROMs. The basi
 ### Some complete cdl files
 
 * [https://forums.sonicretro.org/index.php?showtopic=36572](https://forums.sonicretro.org/index.php?showtopic=36572) 
-
-### Gameboy (Gambatte in Bizhawk)
-
-* [https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Emulation.Cores/Consoles/Nintendo/Gameboy/Gambatte.ICodeDataLog.cs](https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Emulation.Cores/Consoles/Nintendo/Gameboy/Gambatte.ICodeDataLog.cs) (public partial class Gameboy : ICodeDataLogger) Only useful as an entry point
 
 ## Format of the Code data Logger
 
@@ -159,6 +155,51 @@ CDL files are just a mask of the ROM; that is, they are of the same size as the 
 </table>
 
 
+### Bizhawk Format (Multi-system)
+
+The Bizhawk CodeDataLogger supports multiple emulation cores but always follows a fairly common structure:
+
+![image alt text]({{ site.url }}/public/IiA83YXfAzYaSGTnQsabPA_img_1.png)
+
+<table>
+  <tr>
+    <td>Number in Screenshot</td>
+    <td>Name of Section</td>
+    <td>Example Value</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
 ### Implementation of a Code Data Logger
 
 * The emulator creates a large Byte array, that's equal to the size of the rom. 
@@ -169,9 +210,31 @@ CDL files are just a mask of the ROM; that is, they are of the same size as the 
 
         * Other bits can represent how the data was accessed; directly, indirectly, indirectly for a jump table, etc. [1]
 
+    * So after loading the rom, allocate a byte array the same size as the rom loaded and set all bytes to 0
+
+        * Every time a opcode is executed flip the bit
+
+        * Every time a memory address is executed flip the bit
+
 * Difficulties implementing CDL are:
 
     * Many games using different access to same data. For example read long to read two words (for example coordinates x, y). [2]
+
+#### Bizhawk CDL Tool
+
+#### CDL.cs
+
+CDL.cs contains the functionality for interacting the the CodeDataLogger window seen in the screenshot below:
+
+![image alt text]({{ site.url }}/public/IiA83YXfAzYaSGTnQsabPA_img_2.png)
+
+This includes opening and saving a cdl file and displaying the statistics in the list view.
+
+[https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Client.EmuHawk/tools/CDL.cs](https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Client.EmuHawk/tools/CDL.cs) 
+
+#### Gameboy (Gambatte in Bizhawk)
+
+* [https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Emulation.Cores/Consoles/Nintendo/Gameboy/Gambatte.ICodeDataLog.cs](https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Emulation.Cores/Consoles/Nintendo/Gameboy/Gambatte.ICodeDataLog.cs) (public partial class Gameboy : ICodeDataLogger) Only useful as an entry point
 
 ## References
 
