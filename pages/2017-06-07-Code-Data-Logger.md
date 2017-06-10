@@ -169,33 +169,33 @@ The Bizhawk CodeDataLogger supports multiple emulation cores but always follows 
   </tr>
   <tr>
     <td>1</td>
-    <td></td>
-    <td></td>
+    <td>File identifier</td>
+    <td>"BIZHAWK-CDL-2"</td>
   </tr>
   <tr>
     <td>2</td>
-    <td></td>
-    <td></td>
+    <td>Platform name</td>
+    <td>"Gen", “GB”</td>
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
+    <td>Number of blocks (e.g ROM, WRAM..)</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>4</td>
-    <td></td>
-    <td></td>
+    <td>Name of Block</td>
+    <td>MD Cart (Megadrive cartridge)</td>
   </tr>
   <tr>
     <td>5</td>
-    <td></td>
-    <td></td>
+    <td>Number of bytes in block</td>
+    <td>4MB</td>
   </tr>
   <tr>
     <td>6</td>
-    <td></td>
-    <td></td>
+    <td>Block data</td>
+    <td>00, 01, 04, 40 </td>
   </tr>
 </table>
 
