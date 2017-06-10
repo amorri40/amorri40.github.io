@@ -222,11 +222,72 @@ The Bizhawk CodeDataLogger supports multiple emulation cores but always follows 
 
 #### Bizhawk CDL Tool
 
+Since Bizhawk is fully open source we can inspect how the CDL was implemented for this multi-emulator system.
+
 #### CDL.cs
 
 CDL.cs contains the functionality for interacting the the CodeDataLogger window seen in the screenshot below:
 
 ![image alt text]({{ site.url }}/public/IiA83YXfAzYaSGTnQsabPA_img_2.png)
+
+The list is made up of a number of columns:
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Displayed Information</td>
+  </tr>
+  <tr>
+    <td>CDL File @</td>
+    <td>Address of the block in the cdl file</td>
+  </tr>
+  <tr>
+    <td>Domain</td>
+    <td>Name of the block</td>
+  </tr>
+  <tr>
+    <td>%</td>
+    <td>Percentage of the block that has been mapped (accessed in some way either as code or data)</td>
+  </tr>
+  <tr>
+    <td>Mapped</td>
+    <td>Number of mapped bytes</td>
+  </tr>
+  <tr>
+    <td>Size</td>
+    <td>Total number of bytes in the block</td>
+  </tr>
+  <tr>
+    <td>0x01.. 0x80</td>
+    <td>Percentage or Number of bytes accessed as...
+0x01: 
+0x02:
+0x04:
+0x08
+0x10:
+0x20:
+0x80:</td>
+  </tr>
+</table>
+
+
+#### Calculating Statistics
+
+In order to calculate the statistics shown in the list bizhawk has the following logic:
+
+* First loop over every byte in the block and for each byte:
+
+    * Count the number of times this byte value exists
+
+    * Since each byte can only have a value between 0 -> 255, you just need a map with size 256 that contains the count for each possible byte value.
+
+* Next, now that we have the count of each byte value we need to find out the count for each bit being set to 1
+
+    * Create a new array with length 8 of the totals for each bit being set to 1, where each element is the count of that bit being set.
+
+    * So for each possible byte value (0 -> 255) use bitwise arithmetic to find out if the first bit is set
+
+    * If the first bit is set then add the number of times this byte appeared to the totals array for this bit
 
 This includes opening and saving a cdl file and displaying the statistics in the list view.
 
