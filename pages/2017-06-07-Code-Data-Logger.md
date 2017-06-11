@@ -306,10 +306,30 @@ The list is made up of a number of columns showing the statistics collected in t
 </td>
     <td></td>
   </tr>
+  <tr>
+    <td>SNES</td>
+    <td>ExecFirst</td>
+    <td>ExecOperand</td>
+    <td>CPUData</td>
+    <td>DMAData</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>BRR</td>
+  </tr>
+  <tr>
+    <td>SMS/GG</td>
+    <td>ExecFirst</td>
+    <td>ExecOperand</td>
+    <td>Data</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
-
-Key
 
 **ExecFirst**: The opcode (first byte of an instruction to be executed)
 
@@ -355,9 +375,56 @@ This includes opening and saving a cdl file and displaying the statistics in the
 
 [View Source for CDL.cs](https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Client.EmuHawk/tools/CDL.cs) 
 
-#### Gameboy (Gambatte in Bizhawk)
+#### Gambatte.ICodeDataLog.cs (Gameboy Gambatte in Bizhawk)
 
-* [https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Emulation.Cores/Consoles/Nintendo/Gameboy/Gambatte.ICodeDataLog.cs](https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Emulation.Cores/Consoles/Nintendo/Gameboy/Gambatte.ICodeDataLog.cs) (public partial class Gameboy : ICodeDataLogger) Only useful as an entry point
+* [View Gambatte.ICodeDataLog.cs Source Code](https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Emulation.Cores/Consoles/Nintendo/Gameboy/Gambatte.ICodeDataLog.cs) (public partial class Gameboy : ICodeDataLogger) Only useful as an entry point
+
+* NewCDL - creates the memory blocks for this CDL (for gameboy it creates ROM, WRAM, CartRAM, 
+
+#### ICodeDataLog (Key value pair of block name to block array)
+
+#### LibGambatte.cs
+
+* CDLog_Flags - the different types of byte access as enum (ExecFirst, ExecOperand, Data)
+
+* Gambatte_setcdcallback (calls into the native code of gambatte)
+
+#### Gambatte.cpp (Entry point in the native dll)
+
+The entry point sets the CodeData Logger callback on the cpu object.
+
+<table>
+  <tr>
+    <td>void GB::setCDCallback(CDCallback cdc) {
+		p_->cpu.setCDCallback(cdc);
+}</td>
+  </tr>
+</table>
+
+
+#### Cpu.h (Z80 CPU implementation)
+
+Just seems to set the CodeDataLogger call back on the memory object
+
+<table>
+  <tr>
+    <td>void setCDCallback(CDCallback cdc) {
+	memory.setCDCallback(cdc);
+}</td>
+  </tr>
+</table>
+
+
+#### Memory.h (GB Memory object)
+
+<table>
+  <tr>
+    <td>void setCDCallback(CDCallback cdc) {
+	this->cdCallback = cdc;
+}</td>
+  </tr>
+</table>
+
 
 ## References
 
