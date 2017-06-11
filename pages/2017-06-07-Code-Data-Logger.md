@@ -259,14 +259,52 @@ The list is made up of a number of columns showing the statistics collected in t
   </tr>
   <tr>
     <td>0x01.. 0x80</td>
-    <td>Percentage or Number of bytes accessed as...
-0x01: 
-0x02:
-0x04:
-0x08
-0x10:
-0x20:
-0x80:</td>
+    <td>Percentage or Number of bytes accessed as a certain type depending on bit (see format table below)</td>
+  </tr>
+</table>
+
+
+Format of byte access values
+
+<table>
+  <tr>
+    <td>Console</td>
+    <td>0x01</td>
+    <td>0x02</td>
+    <td>0x04</td>
+    <td>0x08</td>
+    <td>0x10</td>
+    <td>0x20</td>
+    <td>0x40</td>
+    <td>0x80</td>
+  </tr>
+  <tr>
+    <td>GameBoy</td>
+    <td>ExecFirst</td>
+    <td>ExecOperand
+</td>
+    <td>Data</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Megadrive</td>
+    <td>Exec68k</td>
+    <td></td>
+    <td>Data68k
+</td>
+    <td>ExecZ80First
+</td>
+    <td>ExecZ80Operand
+</td>
+    <td>DataZ80
+</td>
+    <td>DMASource
+</td>
+    <td></td>
   </tr>
 </table>
 
