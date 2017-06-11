@@ -224,13 +224,13 @@ The Bizhawk CodeDataLogger supports multiple emulation cores but always follows 
 
 Since Bizhawk is fully open source we can inspect how the CDL was implemented for this multi-emulator system.
 
-#### CDL.cs
+#### CDL.cs (Showing cdl statistics window)
 
-CDL.cs contains the functionality for interacting the the CodeDataLogger window seen in the screenshot below:
+CDL.cs contains the functionality for interacting with the CodeDataLogger window seen in the screenshot below:
 
 ![image alt text]({{ site.url }}/public/IiA83YXfAzYaSGTnQsabPA_img_2.png)
 
-The list is made up of a number of columns:
+The list is made up of a number of columns showing the statistics collected in the CDL:
 
 <table>
   <tr>
@@ -289,9 +289,27 @@ In order to calculate the statistics shown in the list bizhawk has the following
 
     * If the first bit is set then add the number of times this byte appeared to the totals array for this bit
 
+        * To check if the first bit is set: (byteValue & 0x01) != 0
+
+        * To check if the last bit is set: (byteValue & 0x80) != 0
+
+#### CodeDataLog.cs (.cdl file read/write)
+
+The CodeDataLog class contains logic for saving and importing CDL files.
+
+* The **SaveInternal** method on this class is what actually writes the cdl data to a file on disk
+
+    * ![image alt text]({{ site.url }}/public/IiA83YXfAzYaSGTnQsabPA_img_3.png)
+
+    * It uses the class as a Key Value Pair (kvp) where the key is the block name (e.g Cartridge ROM, WRAM etc)
+
+    * The value is the byte array of this block and before its written to the file the length of the block is written so it can be easily parsed when read.
+
+* The Load method on this class is what actually reads in the cdl data from a cdl file.
+
 This includes opening and saving a cdl file and displaying the statistics in the list view.
 
-[https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Client.EmuHawk/tools/CDL.cs](https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Client.EmuHawk/tools/CDL.cs) 
+[View Source for CDL.cs](https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Client.EmuHawk/tools/CDL.cs) 
 
 #### Gameboy (Gambatte in Bizhawk)
 
