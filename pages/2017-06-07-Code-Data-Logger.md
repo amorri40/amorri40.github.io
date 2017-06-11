@@ -379,7 +379,9 @@ This includes opening and saving a cdl file and displaying the statistics in the
 
 * [View Gambatte.ICodeDataLog.cs Source Code](https://github.com/TASVideos/BizHawk/blob/15a25bdd8763b3526b25e73406557cbb2305d2b0/BizHawk.Emulation.Cores/Consoles/Nintendo/Gameboy/Gambatte.ICodeDataLog.cs) (public partial class Gameboy : ICodeDataLogger) Only useful as an entry point
 
-* NewCDL - creates the memory blocks for this CDL (for gameboy it creates ROM, WRAM, CartRAM, 
+* NewCDL - creates the memory blocks for this CDL (for gameboy it creates ROM, WRAM, CartRAM, HRAM)
+
+* CDCallbackProc - this is called everytime an instruction accesses memory
 
 #### ICodeDataLog (Key value pair of block name to block array)
 
@@ -421,6 +423,19 @@ Just seems to set the CodeDataLogger call back on the memory object
   <tr>
     <td>void setCDCallback(CDCallback cdc) {
 	this->cdCallback = cdc;
+}</td>
+  </tr>
+</table>
+
+
+In memory read and write function it calls the callback to the c# code to log it as memory data:
+
+<table>
+  <tr>
+    <td>if(cdCallback) {
+	CDMapResult map = CDMap(P);
+	if(map.type != eCDLog_AddrType_None)
+		cdCallback(map.addr,map.type,eCDLog_Flags_Data);
 }</td>
   </tr>
 </table>
