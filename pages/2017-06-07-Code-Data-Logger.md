@@ -264,7 +264,7 @@ The list is made up of a number of columns showing the statistics collected in t
 </table>
 
 
-Format of byte access values
+#### Format of byte access values
 
 <table>
   <tr>
@@ -308,6 +308,12 @@ Format of byte access values
   </tr>
 </table>
 
+
+Key
+
+**ExecFirst**: The opcode (first byte of an instruction to be executed)
+
+**ExecOperand**: The operand (2nd byte of the instruction)
 
 #### Calculating Statistics
 
