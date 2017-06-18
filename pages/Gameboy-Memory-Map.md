@@ -87,7 +87,7 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
     <td>Echo RAM - Reserved, Do Not Use</td>
   </tr>
   <tr>
-    <td></td>
+    <td>65024 -> 65183</td>
     <td>0xFE00 -> 0xFE9F (160 bytes)</td>
     <td>OAM - Object Attribute Memory</td>
   </tr>
@@ -97,17 +97,21 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
     <td>Unusable Memory</td>
   </tr>
   <tr>
-    <td></td>
+    <td>65280 -> 65407</td>
     <td>0xFF00 -> 0xFF7F (128 bytes)</td>
-    <td>Hardware I/O Registers</td>
+    <td>Hardware I/O Registers
+ScrollY (0xFF42)
+ScrollX (0xFF43)
+WindowY (0xFF4A)
+WindowX (0xFF4B)</td>
   </tr>
   <tr>
-    <td></td>
+    <td>65408 -> 65534</td>
     <td>0xFF80 -> 0xFFFE (127 bytes)</td>
     <td>Zero Page</td>
   </tr>
   <tr>
-    <td></td>
+    <td>65535</td>
     <td>0xFFFF (1 byte)</td>
     <td>Interrupt Enable Flag</td>
   </tr>
