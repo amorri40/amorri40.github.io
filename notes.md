@@ -10,7 +10,7 @@ menu: Notes
 
 ## Emulation
 - [Code-data-logger](/code-data-logger) - Information about the Code Data Logger built into some emulators
-- [Gameboy Memory Map](//gameboy-memory-map/) - Information about the memory structure of Gameboy hardware
+- [Gameboy Memory Map](/gameboy-memory-map) - Information about the memory structure of Gameboy hardware
 
 ## Android
 - [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images
