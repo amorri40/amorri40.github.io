@@ -118,13 +118,37 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
 
 ## Hardware I/O Registers (0xFF00 -> 0xFF7F) (128 bytes)
 
-* ScrollY (0xFF42)
+<table>
+  <tr>
+    <td>0xFF42</td>
+    <td>ScrollY</td>
+  </tr>
+  <tr>
+    <td>0xFF43</td>
+    <td>ScrollX</td>
+  </tr>
+  <tr>
+    <td>0xFF44</td>
+    <td>LY - LCDC Y-Coordinate (R)</td>
+  </tr>
+  <tr>
+    <td>0xFF45</td>
+    <td>LYC - LY Compare (R/W)</td>
+  </tr>
+  <tr>
+    <td>0xFF46</td>
+    <td>DMA - DMA Transfer and Start Address (W)</td>
+  </tr>
+  <tr>
+    <td>0xFF4A</td>
+    <td>WindowY</td>
+  </tr>
+  <tr>
+    <td>0xFF4B</td>
+    <td>WindowX</td>
+  </tr>
+</table>
 
-* ScrollX (0xFF43)
-
-* WindowY (0xFF4A)
-
-* WindowX (0xFF4B)
 
 References: 
 
