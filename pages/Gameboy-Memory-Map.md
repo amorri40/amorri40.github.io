@@ -129,15 +129,27 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
   </tr>
   <tr>
     <td>0xFF44</td>
-    <td>LY - LCDC Y-Coordinate (R)</td>
+    <td>LY - LCDC Y-Coordinate (Read-only)</td>
   </tr>
   <tr>
     <td>0xFF45</td>
-    <td>LYC - LY Compare (R/W)</td>
+    <td>LYC - LY Compare (Read/Write)</td>
   </tr>
   <tr>
     <td>0xFF46</td>
-    <td>DMA - DMA Transfer and Start Address (W)</td>
+    <td>DMA - DMA Transfer and Start Address (Write-only)</td>
+  </tr>
+  <tr>
+    <td>0xFF47</td>
+    <td>BGP - BG Palette Data (Read/Write) - Non CGB Mode Only</td>
+  </tr>
+  <tr>
+    <td>0xFF48</td>
+    <td>OBP0 - Object Palette 0 Data (R/W) - Non CGB Mode Only</td>
+  </tr>
+  <tr>
+    <td>0xFF49</td>
+    <td>OBP1 - Object Palette 1 Data (R/W) - Non CGB Mode Only</td>
   </tr>
   <tr>
     <td>0xFF4A</td>
@@ -146,6 +158,38 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
   <tr>
     <td>0xFF4B</td>
     <td>WindowX</td>
+  </tr>
+  <tr>
+    <td>0xFF4C</td>
+    <td>??</td>
+  </tr>
+  <tr>
+    <td>0xFF4D</td>
+    <td>KEY1 - CGB Mode Only - Prepare Speed Switch</td>
+  </tr>
+  <tr>
+    <td>0xFF4E</td>
+    <td>??</td>
+  </tr>
+  <tr>
+    <td>0xFF4F</td>
+    <td>VBK - CGB Mode Only - VRAM Bank</td>
+  </tr>
+  <tr>
+    <td>0xFF50</td>
+    <td>Locks Bootrom</td>
+  </tr>
+  <tr>
+    <td>0xFF51 -> 0xFF55</td>
+    <td>LCD VRAM DMA Transfers (CGB only)</td>
+  </tr>
+  <tr>
+    <td>0xFF56</td>
+    <td>RP - CGB Mode Only - Infrared Communications Port</td>
+  </tr>
+  <tr>
+    <td>0xFF57 -> 0xFF67</td>
+    <td>??</td>
   </tr>
 </table>
 
