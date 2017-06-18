@@ -11,7 +11,7 @@ tags:
 source-id: 17ogTZ-xdyCcJ60M6qFyhdGF5PQ9VlHgeNyr4bCqzpCg
 published: true
 ---
-### Gameboy Hardware
+## Gameboy Hardware
 
 CPU: 8-bit
 
@@ -23,7 +23,7 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
 
 "The GameBoy contains an 8-bit processor, meaning it can access 8-bits of data at one time. To access this data, it has a 16-bit address bus, which can address 65,536 positions of memory" [1].
 
-### Memory Map
+# Memory Map
 
 <table>
   <tr>
@@ -116,5 +116,5 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
 
 References: 
 
-1. http://gameboy.mongenel.com/dmg/asmmemmap.html 
+1. [http://gameboy.mongenel.com/dmg/asmmemmap.html](http://gameboy.mongenel.com/dmg/asmmemmap.html)  
 
