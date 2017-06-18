@@ -10,11 +10,7 @@ menu: Notes
 
 ## Emulation
 - [Code-data-logger](/code-data-logger) - Information about the Code Data Logger built into some emulators
-
-## Java
-- [Gson](https://github.com/google/gson) - Google Library to support JSON
-- [Xstream](http://x-stream.github.io/index.html) -  Serialize objects to XML and back again
-- [JAXB](https://jaxb.java.net/) - Java Architecture for XML Binding
+- [Gameboy Memory Map](//gameboy-memory-map/) - Information about the memory structure of Gameboy hardware
 
 ## Android
 - [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images
@@ -53,9 +49,6 @@ menu: Notes
 ## Front-end web UI/Framework
 - [Bootstrap](http://getbootstrap.com/) - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web
 - [Angular-Material](https://material.angularjs.org/latest/) - Implementation of Google's Material Design Specification
-
-## Fonts
-- [Google Fonts](https://www.google.com/fonts) - So it's google fonts :D
 
 ## Icons
 - [Github-Octicons](https://octicons.github.com/) - GitHub's icons
