@@ -99,7 +99,8 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
   <tr>
     <td>65280 -> 65407</td>
     <td>0xFF00 -> 0xFF7F (128 bytes)</td>
-    <td>Hardware I/O Registers
+    <td>Hardware I/O Registers:
+
 ScrollY (0xFF42)
 ScrollX (0xFF43)
 WindowY (0xFF4A)
