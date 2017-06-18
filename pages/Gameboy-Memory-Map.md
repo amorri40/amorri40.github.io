@@ -54,27 +54,29 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
   <tr>
     <td>32768 -> 38911</td>
     <td>0x8000 -> 0x97FF (6KB)</td>
-    <td>Character RAM</td>
+    <td>Character RAM (VRAM)</td>
   </tr>
   <tr>
     <td></td>
     <td>0x9800 -> 0x9BFF (1KB)</td>
-    <td>BG Map Data 1</td>
+    <td>BG Map Data 1 (VRAM)</td>
   </tr>
   <tr>
     <td></td>
     <td>0x9C00 -> 0x9FFF (1KB)</td>
-    <td>BG Map Data 2</td>
+    <td>BG Map Data 2 (VRAM)</td>
   </tr>
   <tr>
     <td></td>
     <td>0xA000 -> 0xBFFF (8KB)</td>
-    <td>Cartridge RAM (If Available)</td>
+    <td>Cartridge RAM (If Available)
+(WRAM)</td>
   </tr>
   <tr>
     <td></td>
     <td>0xC000 - 0xCFFF (4KB)</td>
-    <td>Internal RAM - Bank 0 (fixed)</td>
+    <td>Internal RAM - Bank 0 (fixed)
+(WRAM)</td>
   </tr>
   <tr>
     <td></td>
@@ -99,12 +101,7 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
   <tr>
     <td>65280 -> 65407</td>
     <td>0xFF00 -> 0xFF7F (128 bytes)</td>
-    <td>Hardware I/O Registers:
-
-ScrollY (0xFF42)
-ScrollX (0xFF43)
-WindowY (0xFF4A)
-WindowX (0xFF4B)</td>
+    <td>Hardware I/O Registers</td>
   </tr>
   <tr>
     <td>65408 -> 65534</td>
@@ -118,6 +115,16 @@ WindowX (0xFF4B)</td>
   </tr>
 </table>
 
+
+## Hardware I/O Registers (0xFF00 -> 0xFF7F) (128 bytes)
+
+* ScrollY (0xFF42)
+
+* ScrollX (0xFF43)
+
+* WindowY (0xFF4A)
+
+* WindowX (0xFF4B)
 
 References: 
 
