@@ -57,34 +57,34 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
     <td>Character RAM (VRAM)</td>
   </tr>
   <tr>
-    <td></td>
+    <td>38912 -> 39935</td>
     <td>0x9800 -> 0x9BFF (1KB)</td>
     <td>BG Map Data 1 (VRAM)</td>
   </tr>
   <tr>
-    <td></td>
+    <td>39936 -> 40959</td>
     <td>0x9C00 -> 0x9FFF (1KB)</td>
     <td>BG Map Data 2 (VRAM)</td>
   </tr>
   <tr>
-    <td></td>
+    <td>40960 -> 49151</td>
     <td>0xA000 -> 0xBFFF (8KB)</td>
     <td>Cartridge RAM (If Available)
 (WRAM)</td>
   </tr>
   <tr>
-    <td></td>
+    <td>49152 -> 53247</td>
     <td>0xC000 - 0xCFFF (4KB)</td>
     <td>Internal RAM - Bank 0 (fixed)
 (WRAM)</td>
   </tr>
   <tr>
-    <td></td>
+    <td>53248 -> 57343</td>
     <td>0xD000 -> 0xDFFF (4096 bytes)</td>
     <td>Internal RAM - Bank 1-7 (switchable - CGB only)</td>
   </tr>
   <tr>
-    <td></td>
+    <td>57344 -> 65023</td>
     <td>0xE000 -> 0xFDFF (7680 bytes)</td>
     <td>Echo RAM - Reserved, Do Not Use</td>
   </tr>
@@ -94,7 +94,7 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
     <td>OAM - Object Attribute Memory</td>
   </tr>
   <tr>
-    <td></td>
+    <td>65184 -> 65279</td>
     <td>0xFEA0 -> 0xFEFF (96 bytes)</td>
     <td>Unusable Memory</td>
   </tr>
@@ -106,12 +106,45 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
   <tr>
     <td>65408 -> 65534</td>
     <td>0xFF80 -> 0xFFFE (127 bytes)</td>
-    <td>Zero Page</td>
+    <td>Zero Page (HRAM / HiRam)</td>
   </tr>
   <tr>
     <td>65535</td>
     <td>0xFFFF (1 byte)</td>
     <td>Interrupt Enable Flag</td>
+  </tr>
+</table>
+
+
+## OAM - Object Attribute memory (Sprites)
+
+**Size of memory**: 160 Bytes
+
+**Number of Sprites**: 40
+
+**Size of Sprites**: 8x8 or 8x16
+
+"On the Gameboy the OAM is a 160-byte long chunk of memory, and each sprite takes up 4 bytes which leaves just enough room for exactly 40 sprite.
+
+We can not access it while the display is updating (Which is a lot of the time!). This is where the so-called Direct Memory Access (DMA) comes into play." [2].
+
+<table>
+  <tr>
+    <td>Y</td>
+    <td>Location of Sprite on Screen from top to bottom</td>
+  </tr>
+  <tr>
+    <td>X</td>
+    <td>Location of Sprite on Screen from left to right</td>
+  </tr>
+  <tr>
+    <td>Tile Number</td>
+    <td>Tile in the tile-map to use to render this sprite</td>
+  </tr>
+  <tr>
+    <td>Flags</td>
+    <td>Flag values:
+7: Render priority6: Y flip5: X flip4: Palette number       (GB Color only)3: VRAM bank            (GB Color only)2: Palette number bit 3 (GB Color only)1: Palette number bit 2 (GB Color only)0: Palette number bit 1 (GB Color only)</td>
   </tr>
 </table>
 
@@ -191,10 +224,40 @@ Total Memory Addresses: 65,536 (0x10000) (64KB)
     <td>0xFF57 -> 0xFF67</td>
     <td>??</td>
   </tr>
+  <tr>
+    <td>0xFF68</td>
+    <td>BCPS/BGPI - CGB Mode Only - Background Palette Index</td>
+  </tr>
+  <tr>
+    <td>0xFF69</td>
+    <td>BCPD/BGPD - CGB Mode Only - Background Palette Data</td>
+  </tr>
+  <tr>
+    <td>0xFF6A</td>
+    <td>OCPS/OBPI - CGB Mode Only - Sprite Palette Index</td>
+  </tr>
+  <tr>
+    <td>0xFF6B</td>
+    <td>OCPD/OBPD - CGB Mode Only - Sprite Palette Data</td>
+  </tr>
+  <tr>
+    <td>0xFF6C -> 0xFF6F</td>
+    <td>??</td>
+  </tr>
+  <tr>
+    <td>0xFF70</td>
+    <td>FF70 - SVBK - CGB Mode Only - WRAM Bank</td>
+  </tr>
+  <tr>
+    <td>0xFF71 -> FF7F</td>
+    <td>??</td>
+  </tr>
 </table>
 
 
 References: 
 
 1. [http://gameboy.mongenel.com/dmg/asmmemmap.html](http://gameboy.mongenel.com/dmg/asmmemmap.html)  
+
+2. [http://exez.in/gameboy-dma](http://exez.in/gameboy-dma) 
 
