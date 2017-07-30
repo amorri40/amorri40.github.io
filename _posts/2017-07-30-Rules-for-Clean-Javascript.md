@@ -36,3 +36,7 @@ Rules for Clean Javascript 2017
 
 * Benefit: Removes noise from Pull-Request reviews
 
+## Use Longer names when possible (as long as they are more descriptive)
+
+* It's better to have longer variable/function names than comments that explain the purpose of a variable (see: Clean Code)
+
