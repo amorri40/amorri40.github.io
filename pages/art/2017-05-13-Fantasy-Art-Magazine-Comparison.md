@@ -142,7 +142,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 ## Volume 2 (Genius Guide) [2014]
 
-![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_7.png)
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_7.jpg)
 
 Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagine Publishing. Where Advanced Photoshop is a monthly magazine published by Imagine over in the USA, it is called Photoshop Creative in the UK and Australia.
 
@@ -290,7 +290,7 @@ Volume 3 says it is part of the "Photoshop Creative" bookazine series by Imagine
 
 ## Volume 1 Revised Edition
 
-![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_9.png)
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_9.jpg)
 
 Tutorials marked as **NEW!** Are new to this revision and were not in the original volume 1. But these are not completely new as they are still reprints from monthly magazines.
 
@@ -412,7 +412,7 @@ Resource CD packed with assets and high-res textures
 
 ## Volume 2 Revised Edition (Genius Guide) [2015]
 
-![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_11.png)
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_11.jpg)
 
 ### **Character **- From magical to steampunk
 
@@ -480,7 +480,7 @@ Only the first 2 of these were also in the original volume 2.
 
 		 	 	 		
 
-			![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_12.png)
+			![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_12.jpg)
 
 				
 
@@ -568,7 +568,7 @@ Free with this bookazine...
 
 ## Volume 7 
 
-![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_13.png)
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_13.jpg)
 
 ### Other Interesting Links about Fantasy Artist Magazine
 
