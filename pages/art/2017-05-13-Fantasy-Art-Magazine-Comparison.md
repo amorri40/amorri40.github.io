@@ -10,11 +10,13 @@ tags:
 source-id: 1viefb5osM7PLCaKrHwffEIyMGxPJmnFeyN3P6hpSaxg
 published: true
 ---
-During a recent visit to WH Smith I came across a few interesting looking bookazines, one of which was titled "Fantasy Art 7th Edition". A quick flick through later I decided to buy the book and enjoyed reading the tutorials. 
+During a recent visit to WH Smith I came across a few interesting looking bookazines, one of which was titled "Fantasy Art Genius Guide 7th Edition". A quick flick through later I decided to buy the book and enjoyed reading the tutorials. 
 
 After a while of reading I decided to see if I could purchase the other 6 books, as if they are as high quality as this then they would be a welcome addition to my bookshelf.
 
 However after a lot of searching the net I could only seem to come across volume 1,2,3 and 7, where had issues 4,5 and 6 gone? There seemed to be no trace of their existence.
+
+# Fantasy Art Genius Guides
 
 ## Volume 1 (Genius Guide) [2012]
 
@@ -569,6 +571,82 @@ Free with this bookazine...
 ## Volume 7 
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_13.jpg)
+
+# Standard Fantasy Art Bookazines (Pre-Genius Guide)
+
+## Volume 1
+
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_14.jpg)
+
+A visual feast of interviews, galleries, tutorials and features, Fantasy Art Volume 1 showcases the very best in digital fantasy art and reveals the techniques you need to re-create the style at home. Unlock the secrets to stellar fantasy art and realise the limits of your imagination with this ultimate guide. Plus: a free CD.
+
+**Over 200 pages of...**
+
+- Tutorials
+
+- Interviews
+
+- Features for using Photoshop and Painter
+
+**Learn how to...**
+
+- Create characters
+
+- Paint fantasy portraits
+
+- Master light effects
+
+- Compose environments and much more!
+
+**On the CD...**
+
+- Over 150 fantasy reference photos
+
+- Vital start files for following the tutorials
+
+- Six high-res fantasy wallpapers 
+
+## Volume 2 [2008]
+
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_15.png)
+
+Create works of art with no boundaries
+
+and learn from the fantasy masters
+
+**Step-by-step tutorials**
+
+- Create your own wondrous works of art
+
+**In-depth interviews**
+
+- Speaking to the masters of fantasy art and learning how to follow in their footsteps
+
+**Image galleries**
+
+- Inspirational images and beautiful designs
+
+**Cheat guides**
+
+- Quick image fixes to add to your arsenal
+
+**Also inside...**
+
+- Character designs
+
+- Create sci-fi environments
+
+- A guide to manga
+
+- Concept creations
+
+- Painting perfect portraits
+
+- Comic book art
+
+**Free with this issue...**
+
+CD packed with tutorial files and resources
 
 ### Other Interesting Links about Fantasy Artist Magazine
 
