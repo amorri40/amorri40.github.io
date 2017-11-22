@@ -16,7 +16,7 @@ After a while of reading I decided to see if I could purchase the other 6 books,
 
 However after a lot of searching the net I could only seem to come across volume 1,2,3 and 7, where had issues 4,5 and 6 gone? There seemed to be no trace of their existence.
 
-## Volume 1
+## Volume 1 (Genius Guide) [2012]
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_0.png)
 
@@ -140,7 +140,7 @@ Volume One says it is part of the "Fantasy Artist" bookazine series by Imagine P
 
 - Disc packed with tutorial files and resources.
 
-## Volume 2
+## Volume 2 (Genius Guide) [2014]
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_7.png)
 
@@ -166,7 +166,7 @@ Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagin
 
 - Paint a colourful comic book character ([Emilio J Lopez](http://e-man.deviantart.com))
 
-- Design a Weta character ([Andrew Baker](http://www.andbakerdesigns.blogspot.co.nz))
+- Design a Weta character ([Andrew Baker](www.andbakerdesigns.blogspot.co.nz))
 
 - Design a magical character ([Zhonglu Zhao](http://fireluzhao.cghub.com))
 
@@ -174,13 +174,13 @@ Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagin
 
 - Master the art of creature creation ([Benjamin Erdt](https://www.ben-erdt.de))
 
-- Design and model sci-fi creatures ([Ben Erdt)](http://www.ben-erdt.de)
+- Design and model sci-fi creatures ([Ben Erdt)](www.ben-erdt.de)
 
-- Design a 3D alien ([Justin 'Goby' Fields](http://www.justingobyfields.com))
+- Design a 3D alien ([Justin 'Goby' Fields](www.justingobyfields.com))
 
 - Develop fantastical animals ([Danail Nikov](http://didom.cghub.com))
 
-- Master expert creature renders ([Iliya Atanasov](http://www.pixelhunters.com)) (3D Artist #63)
+- Master expert creature renders ([Iliya Atanasov](www.pixelhunters.com)) (3D Artist #63)
 
 ### Landscapes - Create stunning fantasy worlds
 
@@ -218,7 +218,9 @@ Volume Two says it's part of the "Advanced Photoshop" bookazine series by Imagin
 
 Resource CV packed with assets, video tutorials and high-res textures
 
-## Volume 3
+## Volume 3 (Genius Guide)
+
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_8.png)
 
 Volume 3 says it is part of the "Photoshop Creative" bookazine series by Imagine Publishing. Where Photoshop Creative is a monthly magazine published by Imagine over in the UK and Australia, it is called Advanced Photoshop in the USA. I guess by this stage the magazine known as “Fantasy Artist” no longer existed, as it finished with issue 39 in 2012.
 
@@ -288,11 +290,13 @@ Volume 3 says it is part of the "Photoshop Creative" bookazine series by Imagine
 
 ## Volume 1 Revised Edition
 
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_9.png)
+
 Tutorials marked as **NEW!** Are new to this revision and were not in the original volume 1. But these are not completely new as they are still reprints from monthly magazines.
 
 ### Features
 
-![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_8.png)
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_10.png)
 
 *  The rules of fantasy art (Unknown)
 
@@ -318,7 +322,7 @@ Tutorials marked as **NEW!** Are new to this revision and were not in the origin
 
 - Paint manga ([Choo Kah Chun](http://kaizeru.deviantart.com))
 
-- How to design an evil character ([Drazenka Kimpel](http://www.creativedust.com)) **NEW!**
+- How to design an evil character ([Drazenka Kimpel](www.creativedust.com)) **NEW!**
 
 - Design magical characters ([Chester Ocampo](https://www.chesterocampo.net/)) **NEW!**
 
@@ -326,7 +330,7 @@ Tutorials marked as **NEW!** Are new to this revision and were not in the origin
 
 - Metallic paint in ArtRage ([Jon Hodgson](http://www.jonhodgson.com/Jon_Hodgson_Illustration_3/Home.html))
 
-- Comic-book character art ([Dayne Henry Jr](http://romidionstudios.com)) **NEW!**
+- Comic-book character art ([Dayne Henry Jr](romidionstudios.com)) **NEW!**
 
 ### Concept
 
@@ -406,7 +410,9 @@ Resource CD packed with assets and high-res textures
 
 * 13 stone and blood text styles (Ultimate Bundles)
 
-## Volume 2 Revised Edition
+## Volume 2 Revised Edition (Genius Guide) [2015]
+
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_11.png)
 
 ### **Character **- From magical to steampunk
 
@@ -474,7 +480,7 @@ Only the first 2 of these were also in the original volume 2.
 
 		 	 	 		
 
-			
+			![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_12.png)
 
 				
 
@@ -559,6 +565,10 @@ Free with this bookazine...
 * 80 large Bokeh effect photoshop brushes (from [SparkleStock](http://www.sparklestock.com/) worth $5)
 
 * 50 Paint Splatter Brushes (from Imagine Publishing)
+
+## Volume 7 
+
+![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_13.png)
 
 ### Other Interesting Links about Fantasy Artist Magazine
 
