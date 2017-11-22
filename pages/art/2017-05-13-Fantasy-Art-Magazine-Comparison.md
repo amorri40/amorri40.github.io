@@ -574,6 +574,8 @@ Free with this bookazine...
 
 # Standard Fantasy Art Bookazines (Pre-Genius Guide)
 
+There were two standard Fantasy Art Bookazines that pre-dated the "Genius Guide" versions both published by Imagine Publishing.
+
 ## Volume 1
 
 ![image alt text]({{ site.url }}/public/ruva3WalLAnSS6kUEvsBHA_img_14.jpg)
